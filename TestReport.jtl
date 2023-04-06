@@ -1,0 +1,1204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="253" it="0" lt="242" ct="138" ts="1680242023769" s="true" lb="API All products Request" rc="200" rm="" tn="API Testing Thread Group 1-2" dt="text" by="1697" sby="195" ng="8" na="8">
+  <java.net.URL>http://localhost:8090/medicare/json/data/all/products</java.net.URL>
+</httpSample>
+<httpSample t="121" it="0" lt="109" ct="19" ts="1680242023899" s="true" lb="API All products Request" rc="200" rm="" tn="API Testing Thread Group 1-7" dt="text" by="1697" sby="195" ng="8" na="8">
+  <java.net.URL>http://localhost:8090/medicare/json/data/all/products</java.net.URL>
+</httpSample>
+<httpSample t="252" it="0" lt="241" ct="148" ts="1680242023768" s="true" lb="API All products Request" rc="200" rm="" tn="API Testing Thread Group 1-5" dt="text" by="1697" sby="195" ng="8" na="8">
+  <java.net.URL>http://localhost:8090/medicare/json/data/all/products</java.net.URL>
+</httpSample>
+<httpSample t="48" it="0" lt="37" ct="8" ts="1680242023973" s="true" lb="API All products Request" rc="200" rm="" tn="API Testing Thread Group 1-8" dt="text" by="1697" sby="195" ng="8" na="8">
+  <java.net.URL>http://localhost:8090/medicare/json/data/all/products</java.net.URL>
+</httpSample>
+<httpSample t="233" it="0" lt="222" ct="120" ts="1680242023787" s="true" lb="API All products Request" rc="200" rm="" tn="API Testing Thread Group 1-6" dt="text" by="1697" sby="195" ng="8" na="8">
+  <java.net.URL>http://localhost:8090/medicare/json/data/all/products</java.net.URL>
+</httpSample>
+<httpSample t="300" it="0" lt="300" ct="139" ts="1680242023769" s="true" lb="API All products Request" rc="200" rm="" tn="API Testing Thread Group 1-1" dt="text" by="1697" sby="195" ng="8" na="8">
+  <java.net.URL>http://localhost:8090/medicare/json/data/all/products</java.net.URL>
+</httpSample>
+<httpSample t="452" it="0" lt="452" ct="139" ts="1680242023768" s="true" lb="API All products Request" rc="200" rm="" tn="API Testing Thread Group 1-4" dt="text" by="1697" sby="195" ng="10" na="10">
+  <java.net.URL>http://localhost:8090/medicare/json/data/all/products</java.net.URL>
+</httpSample>
+<httpSample t="192" it="0" lt="191" ct="0" ts="1680242024032" s="true" lb="API One Category Request" rc="200" rm="" tn="API Testing Thread Group 1-2" dt="text" by="865" sby="157" ng="10" na="10">
+  <java.net.URL>http://localhost:8090/medicare/json/data/category/1/products</java.net.URL>
+</httpSample>
+<httpSample t="158" it="0" lt="157" ct="2" ts="1680242024071" s="true" lb="API All products Request" rc="200" rm="" tn="API Testing Thread Group 1-9" dt="text" by="1697" sby="195" ng="10" na="10">
+  <java.net.URL>http://localhost:8090/medicare/json/data/all/products</java.net.URL>
+</httpSample>
+<httpSample t="59" it="0" lt="59" ct="3" ts="1680242024171" s="true" lb="API All products Request" rc="200" rm="" tn="API Testing Thread Group 1-10" dt="text" by="1697" sby="195" ng="10" na="10">
+  <java.net.URL>http://localhost:8090/medicare/json/data/all/products</java.net.URL>
+</httpSample>
+<httpSample t="11" it="0" lt="11" ct="0" ts="1680242024225" s="true" lb="API Most Viewed Request" rc="200" rm="" tn="API Testing Thread Group 1-2" dt="text" by="1472" sby="149" ng="10" na="10">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mv/products</java.net.URL>
+</httpSample>
+<httpSample t="16" it="0" lt="16" ct="0" ts="1680242024221" s="true" lb="API One Category Request" rc="200" rm="" tn="API Testing Thread Group 1-4" dt="text" by="865" sby="157" ng="10" na="10">
+  <java.net.URL>http://localhost:8090/medicare/json/data/category/1/products</java.net.URL>
+</httpSample>
+<httpSample t="18" it="0" lt="18" ct="0" ts="1680242024231" s="true" lb="API One Category Request" rc="200" rm="" tn="API Testing Thread Group 1-10" dt="text" by="865" sby="157" ng="10" na="10">
+  <java.net.URL>http://localhost:8090/medicare/json/data/category/1/products</java.net.URL>
+</httpSample>
+<httpSample t="19" it="0" lt="19" ct="0" ts="1680242024230" s="true" lb="API One Category Request" rc="200" rm="" tn="API Testing Thread Group 1-9" dt="text" by="865" sby="157" ng="10" na="10">
+  <java.net.URL>http://localhost:8090/medicare/json/data/category/1/products</java.net.URL>
+</httpSample>
+<httpSample t="498" it="0" lt="498" ct="138" ts="1680242023769" s="true" lb="API All products Request" rc="200" rm="" tn="API Testing Thread Group 1-3" dt="text" by="1697" sby="195" ng="10" na="10">
+  <java.net.URL>http://localhost:8090/medicare/json/data/all/products</java.net.URL>
+</httpSample>
+<httpSample t="235" it="0" lt="235" ct="0" ts="1680242024035" s="true" lb="API One Category Request" rc="200" rm="" tn="API Testing Thread Group 1-5" dt="text" by="865" sby="157" ng="10" na="10">
+  <java.net.URL>http://localhost:8090/medicare/json/data/category/1/products</java.net.URL>
+</httpSample>
+<httpSample t="34" it="0" lt="34" ct="0" ts="1680242024237" s="true" lb="API Most Purchased Request" rc="200" rm="" tn="API Testing Thread Group 1-2" dt="text" by="1472" sby="149" ng="10" na="10">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mp/products</java.net.URL>
+</httpSample>
+<httpSample t="237" it="0" lt="237" ct="0" ts="1680242024036" s="true" lb="API One Category Request" rc="200" rm="" tn="API Testing Thread Group 1-8" dt="text" by="865" sby="157" ng="9" na="9">
+  <java.net.URL>http://localhost:8090/medicare/json/data/category/1/products</java.net.URL>
+</httpSample>
+<httpSample t="25" it="0" lt="25" ct="0" ts="1680242024249" s="true" lb="API Most Viewed Request" rc="200" rm="" tn="API Testing Thread Group 1-10" dt="text" by="1472" sby="149" ng="9" na="9">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mv/products</java.net.URL>
+</httpSample>
+<httpSample t="44" it="0" lt="44" ct="0" ts="1680242024237" s="true" lb="API Most Viewed Request" rc="200" rm="" tn="API Testing Thread Group 1-4" dt="text" by="1472" sby="149" ng="9" na="9">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mv/products</java.net.URL>
+</httpSample>
+<httpSample t="34" it="0" lt="34" ct="0" ts="1680242024250" s="true" lb="API Most Viewed Request" rc="200" rm="" tn="API Testing Thread Group 1-9" dt="text" by="1472" sby="149" ng="9" na="9">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mv/products</java.net.URL>
+</httpSample>
+<httpSample t="220" it="0" lt="220" ct="0" ts="1680242024069" s="true" lb="API One Category Request" rc="200" rm="" tn="API Testing Thread Group 1-1" dt="text" by="865" sby="157" ng="9" na="9">
+  <java.net.URL>http://localhost:8090/medicare/json/data/category/1/products</java.net.URL>
+</httpSample>
+<httpSample t="29" it="0" lt="29" ct="0" ts="1680242024271" s="true" lb="API Most Viewed Request" rc="200" rm="" tn="API Testing Thread Group 1-5" dt="text" by="1472" sby="149" ng="9" na="9">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mv/products</java.net.URL>
+</httpSample>
+<httpSample t="11" it="0" lt="11" ct="0" ts="1680242024290" s="true" lb="API Most Viewed Request" rc="200" rm="" tn="API Testing Thread Group 1-1" dt="text" by="1472" sby="149" ng="9" na="9">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mv/products</java.net.URL>
+</httpSample>
+<httpSample t="30" it="0" lt="30" ct="0" ts="1680242024275" s="true" lb="API Most Purchased Request" rc="200" rm="" tn="API Testing Thread Group 1-10" dt="text" by="1472" sby="149" ng="9" na="9">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mp/products</java.net.URL>
+</httpSample>
+<httpSample t="269" it="0" lt="269" ct="0" ts="1680242024036" s="true" lb="API One Category Request" rc="200" rm="" tn="API Testing Thread Group 1-6" dt="text" by="865" sby="157" ng="9" na="9">
+  <java.net.URL>http://localhost:8090/medicare/json/data/category/1/products</java.net.URL>
+</httpSample>
+<httpSample t="37" it="0" lt="36" ct="0" ts="1680242024269" s="true" lb="API One Category Request" rc="200" rm="" tn="API Testing Thread Group 1-3" dt="text" by="865" sby="157" ng="9" na="9">
+  <java.net.URL>http://localhost:8090/medicare/json/data/category/1/products</java.net.URL>
+</httpSample>
+<httpSample t="26" it="0" lt="26" ct="0" ts="1680242024282" s="true" lb="API Most Purchased Request" rc="200" rm="" tn="API Testing Thread Group 1-4" dt="text" by="1472" sby="149" ng="8" na="8">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mp/products</java.net.URL>
+</httpSample>
+<httpSample t="281" it="0" lt="281" ct="0" ts="1680242024035" s="true" lb="API One Category Request" rc="200" rm="" tn="API Testing Thread Group 1-7" dt="text" by="865" sby="157" ng="7" na="7">
+  <java.net.URL>http://localhost:8090/medicare/json/data/category/1/products</java.net.URL>
+</httpSample>
+<httpSample t="48" it="0" lt="48" ct="0" ts="1680242024274" s="true" lb="API Most Viewed Request" rc="200" rm="" tn="API Testing Thread Group 1-8" dt="text" by="1472" sby="149" ng="7" na="7">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mv/products</java.net.URL>
+</httpSample>
+<httpSample t="13" it="0" lt="12" ct="0" ts="1680242024310" s="true" lb="API Most Viewed Request" rc="200" rm="" tn="API Testing Thread Group 1-3" dt="text" by="1472" sby="149" ng="7" na="7">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mv/products</java.net.URL>
+</httpSample>
+<httpSample t="7" it="0" lt="7" ct="0" ts="1680242024317" s="true" lb="API Most Viewed Request" rc="200" rm="" tn="API Testing Thread Group 1-7" dt="text" by="1472" sby="149" ng="7" na="7">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mv/products</java.net.URL>
+</httpSample>
+<httpSample t="28" it="0" lt="28" ct="0" ts="1680242024301" s="true" lb="API Most Purchased Request" rc="200" rm="" tn="API Testing Thread Group 1-5" dt="text" by="1472" sby="149" ng="7" na="7">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mp/products</java.net.URL>
+</httpSample>
+<httpSample t="29" it="0" lt="28" ct="0" ts="1680242024301" s="true" lb="API Most Purchased Request" rc="200" rm="" tn="API Testing Thread Group 1-1" dt="text" by="1472" sby="149" ng="7" na="7">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mp/products</java.net.URL>
+</httpSample>
+<httpSample t="26" it="0" lt="25" ct="0" ts="1680242024306" s="true" lb="API Most Viewed Request" rc="200" rm="" tn="API Testing Thread Group 1-6" dt="text" by="1472" sby="149" ng="5" na="5">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mv/products</java.net.URL>
+</httpSample>
+<httpSample t="50" it="0" lt="49" ct="0" ts="1680242024286" s="true" lb="API Most Purchased Request" rc="200" rm="" tn="API Testing Thread Group 1-9" dt="text" by="1472" sby="149" ng="5" na="5">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mp/products</java.net.URL>
+</httpSample>
+<httpSample t="11" it="0" lt="11" ct="0" ts="1680242024325" s="true" lb="API Most Purchased Request" rc="200" rm="" tn="API Testing Thread Group 1-7" dt="text" by="1472" sby="149" ng="5" na="5">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mp/products</java.net.URL>
+</httpSample>
+<httpSample t="13" it="0" lt="13" ct="0" ts="1680242024323" s="true" lb="API Most Purchased Request" rc="200" rm="" tn="API Testing Thread Group 1-3" dt="text" by="1472" sby="149" ng="5" na="5">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mp/products</java.net.URL>
+</httpSample>
+<httpSample t="14" it="0" lt="14" ct="0" ts="1680242024322" s="true" lb="API Most Purchased Request" rc="200" rm="" tn="API Testing Thread Group 1-8" dt="text" by="1472" sby="149" ng="4" na="4">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mp/products</java.net.URL>
+</httpSample>
+<httpSample t="13" it="0" lt="13" ct="0" ts="1680242024333" s="true" lb="API Most Purchased Request" rc="200" rm="" tn="API Testing Thread Group 1-6" dt="text" by="1472" sby="149" ng="2" na="2">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mp/products</java.net.URL>
+</httpSample>
+<httpSample t="6" it="0" lt="5" ct="1" ts="1680242024349" s="true" lb="API All products Request" rc="200" rm="" tn="API Testing Thread Group 1-11" dt="text" by="1697" sby="195" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/all/products</java.net.URL>
+</httpSample>
+<httpSample t="7" it="0" lt="6" ct="0" ts="1680242024355" s="true" lb="API One Category Request" rc="200" rm="" tn="API Testing Thread Group 1-11" dt="text" by="865" sby="157" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/category/1/products</java.net.URL>
+</httpSample>
+<httpSample t="8" it="0" lt="8" ct="0" ts="1680242024362" s="true" lb="API Most Viewed Request" rc="200" rm="" tn="API Testing Thread Group 1-11" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mv/products</java.net.URL>
+</httpSample>
+<httpSample t="10" it="0" lt="10" ct="0" ts="1680242024371" s="true" lb="API Most Purchased Request" rc="200" rm="" tn="API Testing Thread Group 1-11" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mp/products</java.net.URL>
+</httpSample>
+<httpSample t="12" it="0" lt="12" ct="6" ts="1680242024393" s="true" lb="API All products Request" rc="200" rm="" tn="API Testing Thread Group 1-12" dt="text" by="1697" sby="195" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/all/products</java.net.URL>
+</httpSample>
+<httpSample t="9" it="0" lt="9" ct="0" ts="1680242024406" s="true" lb="API One Category Request" rc="200" rm="" tn="API Testing Thread Group 1-12" dt="text" by="865" sby="157" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/category/1/products</java.net.URL>
+</httpSample>
+<httpSample t="6" it="0" lt="6" ct="0" ts="1680242024416" s="true" lb="API Most Viewed Request" rc="200" rm="" tn="API Testing Thread Group 1-12" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mv/products</java.net.URL>
+</httpSample>
+<httpSample t="7" it="0" lt="7" ct="0" ts="1680242024422" s="true" lb="API Most Purchased Request" rc="200" rm="" tn="API Testing Thread Group 1-12" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mp/products</java.net.URL>
+</httpSample>
+<httpSample t="15" it="0" lt="15" ct="10" ts="1680242024470" s="true" lb="API All products Request" rc="200" rm="" tn="API Testing Thread Group 1-13" dt="text" by="1697" sby="195" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/all/products</java.net.URL>
+</httpSample>
+<httpSample t="8" it="0" lt="7" ct="0" ts="1680242024486" s="true" lb="API One Category Request" rc="200" rm="" tn="API Testing Thread Group 1-13" dt="text" by="865" sby="157" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/category/1/products</java.net.URL>
+</httpSample>
+<httpSample t="7" it="0" lt="7" ct="0" ts="1680242024494" s="true" lb="API Most Viewed Request" rc="200" rm="" tn="API Testing Thread Group 1-13" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mv/products</java.net.URL>
+</httpSample>
+<httpSample t="6" it="0" lt="6" ct="0" ts="1680242024502" s="true" lb="API Most Purchased Request" rc="200" rm="" tn="API Testing Thread Group 1-13" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mp/products</java.net.URL>
+</httpSample>
+<httpSample t="11" it="0" lt="10" ct="1" ts="1680242024572" s="true" lb="API All products Request" rc="200" rm="" tn="API Testing Thread Group 1-14" dt="text" by="1697" sby="195" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/all/products</java.net.URL>
+</httpSample>
+<httpSample t="5" it="0" lt="5" ct="0" ts="1680242024583" s="true" lb="API One Category Request" rc="200" rm="" tn="API Testing Thread Group 1-14" dt="text" by="865" sby="157" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/category/1/products</java.net.URL>
+</httpSample>
+<httpSample t="6" it="0" lt="6" ct="0" ts="1680242024589" s="true" lb="API Most Viewed Request" rc="200" rm="" tn="API Testing Thread Group 1-14" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mv/products</java.net.URL>
+</httpSample>
+<httpSample t="5" it="0" lt="5" ct="0" ts="1680242024596" s="true" lb="API Most Purchased Request" rc="200" rm="" tn="API Testing Thread Group 1-14" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mp/products</java.net.URL>
+</httpSample>
+<httpSample t="7" it="0" lt="7" ct="2" ts="1680242024681" s="true" lb="API All products Request" rc="200" rm="" tn="API Testing Thread Group 1-15" dt="text" by="1697" sby="195" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/all/products</java.net.URL>
+</httpSample>
+<httpSample t="6" it="0" lt="6" ct="0" ts="1680242024689" s="true" lb="API One Category Request" rc="200" rm="" tn="API Testing Thread Group 1-15" dt="text" by="865" sby="157" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/category/1/products</java.net.URL>
+</httpSample>
+<httpSample t="5" it="0" lt="5" ct="0" ts="1680242024696" s="true" lb="API Most Viewed Request" rc="200" rm="" tn="API Testing Thread Group 1-15" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mv/products</java.net.URL>
+</httpSample>
+<httpSample t="5" it="0" lt="5" ct="0" ts="1680242024701" s="true" lb="API Most Purchased Request" rc="200" rm="" tn="API Testing Thread Group 1-15" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mp/products</java.net.URL>
+</httpSample>
+<httpSample t="6" it="0" lt="6" ct="1" ts="1680242024780" s="true" lb="API All products Request" rc="200" rm="" tn="API Testing Thread Group 1-16" dt="text" by="1697" sby="195" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/all/products</java.net.URL>
+</httpSample>
+<httpSample t="5" it="0" lt="5" ct="0" ts="1680242024786" s="true" lb="API One Category Request" rc="200" rm="" tn="API Testing Thread Group 1-16" dt="text" by="865" sby="157" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/category/1/products</java.net.URL>
+</httpSample>
+<httpSample t="6" it="0" lt="6" ct="0" ts="1680242024792" s="true" lb="API Most Viewed Request" rc="200" rm="" tn="API Testing Thread Group 1-16" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mv/products</java.net.URL>
+</httpSample>
+<httpSample t="6" it="0" lt="5" ct="0" ts="1680242024799" s="true" lb="API Most Purchased Request" rc="200" rm="" tn="API Testing Thread Group 1-16" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mp/products</java.net.URL>
+</httpSample>
+<httpSample t="41" it="0" lt="41" ct="3" ts="1680242024874" s="true" lb="API All products Request" rc="200" rm="" tn="API Testing Thread Group 1-17" dt="text" by="1697" sby="195" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/all/products</java.net.URL>
+</httpSample>
+<httpSample t="5" it="0" lt="5" ct="0" ts="1680242024916" s="true" lb="API One Category Request" rc="200" rm="" tn="API Testing Thread Group 1-17" dt="text" by="865" sby="157" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/category/1/products</java.net.URL>
+</httpSample>
+<httpSample t="9" it="0" lt="9" ct="0" ts="1680242024922" s="true" lb="API Most Viewed Request" rc="200" rm="" tn="API Testing Thread Group 1-17" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mv/products</java.net.URL>
+</httpSample>
+<httpSample t="39" it="0" lt="39" ct="0" ts="1680242024931" s="true" lb="API Most Purchased Request" rc="200" rm="" tn="API Testing Thread Group 1-17" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mp/products</java.net.URL>
+</httpSample>
+<httpSample t="12" it="0" lt="12" ct="1" ts="1680242024983" s="true" lb="API All products Request" rc="200" rm="" tn="API Testing Thread Group 1-18" dt="text" by="1697" sby="195" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/all/products</java.net.URL>
+</httpSample>
+<httpSample t="6" it="0" lt="6" ct="0" ts="1680242024996" s="true" lb="API One Category Request" rc="200" rm="" tn="API Testing Thread Group 1-18" dt="text" by="865" sby="157" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/category/1/products</java.net.URL>
+</httpSample>
+<httpSample t="10" it="0" lt="10" ct="0" ts="1680242025003" s="true" lb="API Most Viewed Request" rc="200" rm="" tn="API Testing Thread Group 1-18" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mv/products</java.net.URL>
+</httpSample>
+<httpSample t="7" it="0" lt="6" ct="0" ts="1680242025014" s="true" lb="API Most Purchased Request" rc="200" rm="" tn="API Testing Thread Group 1-18" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mp/products</java.net.URL>
+</httpSample>
+<httpSample t="12" it="0" lt="11" ct="5" ts="1680242025079" s="true" lb="API All products Request" rc="200" rm="" tn="API Testing Thread Group 1-19" dt="text" by="1697" sby="195" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/all/products</java.net.URL>
+</httpSample>
+<httpSample t="6" it="0" lt="6" ct="0" ts="1680242025092" s="true" lb="API One Category Request" rc="200" rm="" tn="API Testing Thread Group 1-19" dt="text" by="865" sby="157" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/category/1/products</java.net.URL>
+</httpSample>
+<httpSample t="5" it="0" lt="5" ct="0" ts="1680242025099" s="true" lb="API Most Viewed Request" rc="200" rm="" tn="API Testing Thread Group 1-19" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mv/products</java.net.URL>
+</httpSample>
+<httpSample t="9" it="0" lt="9" ct="0" ts="1680242025104" s="true" lb="API Most Purchased Request" rc="200" rm="" tn="API Testing Thread Group 1-19" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mp/products</java.net.URL>
+</httpSample>
+<httpSample t="6" it="0" lt="6" ct="1" ts="1680242025180" s="true" lb="API All products Request" rc="200" rm="" tn="API Testing Thread Group 1-20" dt="text" by="1697" sby="195" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/all/products</java.net.URL>
+</httpSample>
+<httpSample t="7" it="0" lt="6" ct="0" ts="1680242025187" s="true" lb="API One Category Request" rc="200" rm="" tn="API Testing Thread Group 1-20" dt="text" by="865" sby="157" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/category/1/products</java.net.URL>
+</httpSample>
+<httpSample t="6" it="0" lt="6" ct="0" ts="1680242025194" s="true" lb="API Most Viewed Request" rc="200" rm="" tn="API Testing Thread Group 1-20" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mv/products</java.net.URL>
+</httpSample>
+<httpSample t="7" it="0" lt="7" ct="0" ts="1680242025200" s="true" lb="API Most Purchased Request" rc="200" rm="" tn="API Testing Thread Group 1-20" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mp/products</java.net.URL>
+</httpSample>
+<httpSample t="7" it="0" lt="7" ct="2" ts="1680242025281" s="true" lb="API All products Request" rc="200" rm="" tn="API Testing Thread Group 1-21" dt="text" by="1697" sby="195" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/all/products</java.net.URL>
+</httpSample>
+<httpSample t="8" it="0" lt="7" ct="0" ts="1680242025290" s="true" lb="API One Category Request" rc="200" rm="" tn="API Testing Thread Group 1-21" dt="text" by="865" sby="157" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/category/1/products</java.net.URL>
+</httpSample>
+<httpSample t="8" it="0" lt="8" ct="0" ts="1680242025298" s="true" lb="API Most Viewed Request" rc="200" rm="" tn="API Testing Thread Group 1-21" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mv/products</java.net.URL>
+</httpSample>
+<httpSample t="12" it="0" lt="12" ct="0" ts="1680242025306" s="true" lb="API Most Purchased Request" rc="200" rm="" tn="API Testing Thread Group 1-21" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mp/products</java.net.URL>
+</httpSample>
+<httpSample t="12" it="0" lt="12" ct="2" ts="1680242025370" s="true" lb="API All products Request" rc="200" rm="" tn="API Testing Thread Group 1-22" dt="text" by="1697" sby="195" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/all/products</java.net.URL>
+</httpSample>
+<httpSample t="6" it="0" lt="6" ct="0" ts="1680242025383" s="true" lb="API One Category Request" rc="200" rm="" tn="API Testing Thread Group 1-22" dt="text" by="865" sby="157" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/category/1/products</java.net.URL>
+</httpSample>
+<httpSample t="8" it="0" lt="8" ct="0" ts="1680242025389" s="true" lb="API Most Viewed Request" rc="200" rm="" tn="API Testing Thread Group 1-22" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mv/products</java.net.URL>
+</httpSample>
+<httpSample t="6" it="0" lt="5" ct="0" ts="1680242025398" s="true" lb="API Most Purchased Request" rc="200" rm="" tn="API Testing Thread Group 1-22" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mp/products</java.net.URL>
+</httpSample>
+<httpSample t="6" it="0" lt="6" ct="1" ts="1680242025467" s="true" lb="API All products Request" rc="200" rm="" tn="API Testing Thread Group 1-23" dt="text" by="1697" sby="195" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/all/products</java.net.URL>
+</httpSample>
+<httpSample t="9" it="0" lt="9" ct="0" ts="1680242025473" s="true" lb="API One Category Request" rc="200" rm="" tn="API Testing Thread Group 1-23" dt="text" by="865" sby="157" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/category/1/products</java.net.URL>
+</httpSample>
+<httpSample t="6" it="0" lt="6" ct="0" ts="1680242025482" s="true" lb="API Most Viewed Request" rc="200" rm="" tn="API Testing Thread Group 1-23" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mv/products</java.net.URL>
+</httpSample>
+<httpSample t="6" it="0" lt="5" ct="0" ts="1680242025488" s="true" lb="API Most Purchased Request" rc="200" rm="" tn="API Testing Thread Group 1-23" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mp/products</java.net.URL>
+</httpSample>
+<httpSample t="8" it="0" lt="8" ct="1" ts="1680242025568" s="true" lb="API All products Request" rc="200" rm="" tn="API Testing Thread Group 1-24" dt="text" by="1697" sby="195" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/all/products</java.net.URL>
+</httpSample>
+<httpSample t="8" it="0" lt="8" ct="0" ts="1680242025579" s="true" lb="API One Category Request" rc="200" rm="" tn="API Testing Thread Group 1-24" dt="text" by="865" sby="157" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/category/1/products</java.net.URL>
+</httpSample>
+<httpSample t="10" it="0" lt="10" ct="0" ts="1680242025587" s="true" lb="API Most Viewed Request" rc="200" rm="" tn="API Testing Thread Group 1-24" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mv/products</java.net.URL>
+</httpSample>
+<httpSample t="7" it="0" lt="7" ct="0" ts="1680242025598" s="true" lb="API Most Purchased Request" rc="200" rm="" tn="API Testing Thread Group 1-24" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mp/products</java.net.URL>
+</httpSample>
+<httpSample t="12" it="0" lt="11" ct="1" ts="1680242025671" s="true" lb="API All products Request" rc="200" rm="" tn="API Testing Thread Group 1-25" dt="text" by="1697" sby="195" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/all/products</java.net.URL>
+</httpSample>
+<httpSample t="6" it="0" lt="6" ct="0" ts="1680242025683" s="true" lb="API One Category Request" rc="200" rm="" tn="API Testing Thread Group 1-25" dt="text" by="865" sby="157" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/category/1/products</java.net.URL>
+</httpSample>
+<httpSample t="9" it="0" lt="9" ct="0" ts="1680242025689" s="true" lb="API Most Viewed Request" rc="200" rm="" tn="API Testing Thread Group 1-25" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mv/products</java.net.URL>
+</httpSample>
+<httpSample t="7" it="0" lt="7" ct="0" ts="1680242025698" s="true" lb="API Most Purchased Request" rc="200" rm="" tn="API Testing Thread Group 1-25" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mp/products</java.net.URL>
+</httpSample>
+<httpSample t="6" it="0" lt="5" ct="1" ts="1680242025767" s="true" lb="API All products Request" rc="200" rm="" tn="API Testing Thread Group 1-26" dt="text" by="1697" sby="195" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/all/products</java.net.URL>
+</httpSample>
+<httpSample t="10" it="0" lt="10" ct="0" ts="1680242025773" s="true" lb="API One Category Request" rc="200" rm="" tn="API Testing Thread Group 1-26" dt="text" by="865" sby="157" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/category/1/products</java.net.URL>
+</httpSample>
+<httpSample t="4" it="0" lt="4" ct="0" ts="1680242025784" s="true" lb="API Most Viewed Request" rc="200" rm="" tn="API Testing Thread Group 1-26" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mv/products</java.net.URL>
+</httpSample>
+<httpSample t="8" it="0" lt="8" ct="0" ts="1680242025789" s="true" lb="API Most Purchased Request" rc="200" rm="" tn="API Testing Thread Group 1-26" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mp/products</java.net.URL>
+</httpSample>
+<httpSample t="13" it="0" lt="13" ct="2" ts="1680242025871" s="true" lb="API All products Request" rc="200" rm="" tn="API Testing Thread Group 1-27" dt="text" by="1697" sby="195" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/all/products</java.net.URL>
+</httpSample>
+<httpSample t="11" it="0" lt="10" ct="0" ts="1680242025885" s="true" lb="API One Category Request" rc="200" rm="" tn="API Testing Thread Group 1-27" dt="text" by="865" sby="157" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/category/1/products</java.net.URL>
+</httpSample>
+<httpSample t="7" it="0" lt="7" ct="0" ts="1680242025897" s="true" lb="API Most Viewed Request" rc="200" rm="" tn="API Testing Thread Group 1-27" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mv/products</java.net.URL>
+</httpSample>
+<httpSample t="16" it="0" lt="16" ct="0" ts="1680242025904" s="true" lb="API Most Purchased Request" rc="200" rm="" tn="API Testing Thread Group 1-27" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mp/products</java.net.URL>
+</httpSample>
+<httpSample t="8" it="0" lt="8" ct="1" ts="1680242025965" s="true" lb="API All products Request" rc="200" rm="" tn="API Testing Thread Group 1-28" dt="text" by="1697" sby="195" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/all/products</java.net.URL>
+</httpSample>
+<httpSample t="13" it="0" lt="13" ct="0" ts="1680242025974" s="true" lb="API One Category Request" rc="200" rm="" tn="API Testing Thread Group 1-28" dt="text" by="865" sby="157" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/category/1/products</java.net.URL>
+</httpSample>
+<httpSample t="15" it="0" lt="15" ct="0" ts="1680242025988" s="true" lb="API Most Viewed Request" rc="200" rm="" tn="API Testing Thread Group 1-28" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mv/products</java.net.URL>
+</httpSample>
+<httpSample t="66" it="0" lt="66" ct="0" ts="1680242026003" s="true" lb="API Most Purchased Request" rc="200" rm="" tn="API Testing Thread Group 1-28" dt="text" by="1472" sby="149" ng="2" na="2">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mp/products</java.net.URL>
+</httpSample>
+<httpSample t="10" it="0" lt="10" ct="2" ts="1680242026081" s="true" lb="API All products Request" rc="200" rm="" tn="API Testing Thread Group 1-29" dt="text" by="1697" sby="195" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/all/products</java.net.URL>
+</httpSample>
+<httpSample t="8" it="0" lt="8" ct="0" ts="1680242026093" s="true" lb="API One Category Request" rc="200" rm="" tn="API Testing Thread Group 1-29" dt="text" by="865" sby="157" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/category/1/products</java.net.URL>
+</httpSample>
+<httpSample t="6" it="0" lt="6" ct="0" ts="1680242026102" s="true" lb="API Most Viewed Request" rc="200" rm="" tn="API Testing Thread Group 1-29" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mv/products</java.net.URL>
+</httpSample>
+<httpSample t="8" it="0" lt="8" ct="0" ts="1680242026109" s="true" lb="API Most Purchased Request" rc="200" rm="" tn="API Testing Thread Group 1-29" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mp/products</java.net.URL>
+</httpSample>
+<httpSample t="7" it="0" lt="7" ct="1" ts="1680242026161" s="true" lb="API All products Request" rc="200" rm="" tn="API Testing Thread Group 1-30" dt="text" by="1697" sby="195" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/all/products</java.net.URL>
+</httpSample>
+<httpSample t="4" it="0" lt="4" ct="0" ts="1680242026169" s="true" lb="API One Category Request" rc="200" rm="" tn="API Testing Thread Group 1-30" dt="text" by="865" sby="157" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/category/1/products</java.net.URL>
+</httpSample>
+<httpSample t="9" it="0" lt="9" ct="0" ts="1680242026174" s="true" lb="API Most Viewed Request" rc="200" rm="" tn="API Testing Thread Group 1-30" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mv/products</java.net.URL>
+</httpSample>
+<httpSample t="5" it="0" lt="5" ct="0" ts="1680242026183" s="true" lb="API Most Purchased Request" rc="200" rm="" tn="API Testing Thread Group 1-30" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mp/products</java.net.URL>
+</httpSample>
+<httpSample t="8" it="0" lt="7" ct="1" ts="1680242026254" s="true" lb="API All products Request" rc="200" rm="" tn="API Testing Thread Group 1-31" dt="text" by="1697" sby="195" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/all/products</java.net.URL>
+</httpSample>
+<httpSample t="6" it="0" lt="6" ct="0" ts="1680242026262" s="true" lb="API One Category Request" rc="200" rm="" tn="API Testing Thread Group 1-31" dt="text" by="865" sby="157" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/category/1/products</java.net.URL>
+</httpSample>
+<httpSample t="6" it="0" lt="6" ct="0" ts="1680242026268" s="true" lb="API Most Viewed Request" rc="200" rm="" tn="API Testing Thread Group 1-31" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mv/products</java.net.URL>
+</httpSample>
+<httpSample t="9" it="0" lt="9" ct="0" ts="1680242026275" s="true" lb="API Most Purchased Request" rc="200" rm="" tn="API Testing Thread Group 1-31" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mp/products</java.net.URL>
+</httpSample>
+<httpSample t="5" it="0" lt="5" ct="0" ts="1680242026450" s="true" lb="API All products Request" rc="200" rm="" tn="API Testing Thread Group 1-32" dt="text" by="1697" sby="195" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/all/products</java.net.URL>
+</httpSample>
+<httpSample t="6" it="0" lt="5" ct="0" ts="1680242026456" s="true" lb="API One Category Request" rc="200" rm="" tn="API Testing Thread Group 1-32" dt="text" by="865" sby="157" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/category/1/products</java.net.URL>
+</httpSample>
+<httpSample t="5" it="0" lt="5" ct="0" ts="1680242026462" s="true" lb="API Most Viewed Request" rc="200" rm="" tn="API Testing Thread Group 1-32" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mv/products</java.net.URL>
+</httpSample>
+<httpSample t="6" it="0" lt="5" ct="0" ts="1680242026468" s="true" lb="API Most Purchased Request" rc="200" rm="" tn="API Testing Thread Group 1-32" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mp/products</java.net.URL>
+</httpSample>
+<httpSample t="7" it="0" lt="7" ct="1" ts="1680242026518" s="true" lb="API All products Request" rc="200" rm="" tn="API Testing Thread Group 1-33" dt="text" by="1697" sby="195" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/all/products</java.net.URL>
+</httpSample>
+<httpSample t="6" it="0" lt="6" ct="0" ts="1680242026526" s="true" lb="API One Category Request" rc="200" rm="" tn="API Testing Thread Group 1-33" dt="text" by="865" sby="157" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/category/1/products</java.net.URL>
+</httpSample>
+<httpSample t="5" it="0" lt="5" ct="0" ts="1680242026533" s="true" lb="API Most Viewed Request" rc="200" rm="" tn="API Testing Thread Group 1-33" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mv/products</java.net.URL>
+</httpSample>
+<httpSample t="9" it="0" lt="9" ct="0" ts="1680242026538" s="true" lb="API Most Purchased Request" rc="200" rm="" tn="API Testing Thread Group 1-33" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mp/products</java.net.URL>
+</httpSample>
+<httpSample t="6" it="0" lt="6" ct="1" ts="1680242026618" s="true" lb="API All products Request" rc="200" rm="" tn="API Testing Thread Group 1-34" dt="text" by="1697" sby="195" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/all/products</java.net.URL>
+</httpSample>
+<httpSample t="5" it="0" lt="5" ct="0" ts="1680242026625" s="true" lb="API One Category Request" rc="200" rm="" tn="API Testing Thread Group 1-34" dt="text" by="865" sby="157" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/category/1/products</java.net.URL>
+</httpSample>
+<httpSample t="5" it="0" lt="5" ct="0" ts="1680242026631" s="true" lb="API Most Viewed Request" rc="200" rm="" tn="API Testing Thread Group 1-34" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mv/products</java.net.URL>
+</httpSample>
+<httpSample t="8" it="0" lt="7" ct="0" ts="1680242026636" s="true" lb="API Most Purchased Request" rc="200" rm="" tn="API Testing Thread Group 1-34" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mp/products</java.net.URL>
+</httpSample>
+<httpSample t="6" it="0" lt="6" ct="1" ts="1680242026731" s="true" lb="API All products Request" rc="200" rm="" tn="API Testing Thread Group 1-35" dt="text" by="1697" sby="195" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/all/products</java.net.URL>
+</httpSample>
+<httpSample t="7" it="0" lt="6" ct="0" ts="1680242026737" s="true" lb="API One Category Request" rc="200" rm="" tn="API Testing Thread Group 1-35" dt="text" by="865" sby="157" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/category/1/products</java.net.URL>
+</httpSample>
+<httpSample t="8" it="0" lt="8" ct="0" ts="1680242026746" s="true" lb="API Most Viewed Request" rc="200" rm="" tn="API Testing Thread Group 1-35" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mv/products</java.net.URL>
+</httpSample>
+<httpSample t="11" it="0" lt="11" ct="0" ts="1680242026755" s="true" lb="API Most Purchased Request" rc="200" rm="" tn="API Testing Thread Group 1-35" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mp/products</java.net.URL>
+</httpSample>
+<httpSample t="5" it="0" lt="5" ct="1" ts="1680242026827" s="true" lb="API All products Request" rc="200" rm="" tn="API Testing Thread Group 1-36" dt="text" by="1697" sby="195" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/all/products</java.net.URL>
+</httpSample>
+<httpSample t="5" it="0" lt="5" ct="0" ts="1680242026833" s="true" lb="API One Category Request" rc="200" rm="" tn="API Testing Thread Group 1-36" dt="text" by="865" sby="157" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/category/1/products</java.net.URL>
+</httpSample>
+<httpSample t="9" it="0" lt="9" ct="0" ts="1680242026838" s="true" lb="API Most Viewed Request" rc="200" rm="" tn="API Testing Thread Group 1-36" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mv/products</java.net.URL>
+</httpSample>
+<httpSample t="5" it="0" lt="5" ct="0" ts="1680242026847" s="true" lb="API Most Purchased Request" rc="200" rm="" tn="API Testing Thread Group 1-36" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mp/products</java.net.URL>
+</httpSample>
+<httpSample t="5" it="0" lt="5" ct="1" ts="1680242026928" s="true" lb="API All products Request" rc="200" rm="" tn="API Testing Thread Group 1-37" dt="text" by="1697" sby="195" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/all/products</java.net.URL>
+</httpSample>
+<httpSample t="4" it="0" lt="4" ct="0" ts="1680242026934" s="true" lb="API One Category Request" rc="200" rm="" tn="API Testing Thread Group 1-37" dt="text" by="865" sby="157" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/category/1/products</java.net.URL>
+</httpSample>
+<httpSample t="9" it="0" lt="9" ct="0" ts="1680242026939" s="true" lb="API Most Viewed Request" rc="200" rm="" tn="API Testing Thread Group 1-37" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mv/products</java.net.URL>
+</httpSample>
+<httpSample t="5" it="0" lt="5" ct="0" ts="1680242026948" s="true" lb="API Most Purchased Request" rc="200" rm="" tn="API Testing Thread Group 1-37" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mp/products</java.net.URL>
+</httpSample>
+<httpSample t="8" it="0" lt="8" ct="2" ts="1680242027027" s="true" lb="API All products Request" rc="200" rm="" tn="API Testing Thread Group 1-38" dt="text" by="1697" sby="195" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/all/products</java.net.URL>
+</httpSample>
+<httpSample t="4" it="0" lt="4" ct="0" ts="1680242027036" s="true" lb="API One Category Request" rc="200" rm="" tn="API Testing Thread Group 1-38" dt="text" by="865" sby="157" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/category/1/products</java.net.URL>
+</httpSample>
+<httpSample t="8" it="0" lt="8" ct="0" ts="1680242027041" s="true" lb="API Most Viewed Request" rc="200" rm="" tn="API Testing Thread Group 1-38" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mv/products</java.net.URL>
+</httpSample>
+<httpSample t="4" it="0" lt="4" ct="0" ts="1680242027049" s="true" lb="API Most Purchased Request" rc="200" rm="" tn="API Testing Thread Group 1-38" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mp/products</java.net.URL>
+</httpSample>
+<httpSample t="5" it="0" lt="5" ct="1" ts="1680242027149" s="true" lb="API All products Request" rc="200" rm="" tn="API Testing Thread Group 1-39" dt="text" by="1697" sby="195" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/all/products</java.net.URL>
+</httpSample>
+<httpSample t="6" it="0" lt="6" ct="0" ts="1680242027155" s="true" lb="API One Category Request" rc="200" rm="" tn="API Testing Thread Group 1-39" dt="text" by="865" sby="157" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/category/1/products</java.net.URL>
+</httpSample>
+<httpSample t="6" it="0" lt="6" ct="0" ts="1680242027161" s="true" lb="API Most Viewed Request" rc="200" rm="" tn="API Testing Thread Group 1-39" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mv/products</java.net.URL>
+</httpSample>
+<httpSample t="5" it="0" lt="5" ct="0" ts="1680242027167" s="true" lb="API Most Purchased Request" rc="200" rm="" tn="API Testing Thread Group 1-39" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mp/products</java.net.URL>
+</httpSample>
+<httpSample t="6" it="0" lt="5" ct="1" ts="1680242027246" s="true" lb="API All products Request" rc="200" rm="" tn="API Testing Thread Group 1-40" dt="text" by="1697" sby="195" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/all/products</java.net.URL>
+</httpSample>
+<httpSample t="5" it="0" lt="5" ct="0" ts="1680242027252" s="true" lb="API One Category Request" rc="200" rm="" tn="API Testing Thread Group 1-40" dt="text" by="865" sby="157" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/category/1/products</java.net.URL>
+</httpSample>
+<httpSample t="5" it="0" lt="5" ct="0" ts="1680242027258" s="true" lb="API Most Viewed Request" rc="200" rm="" tn="API Testing Thread Group 1-40" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mv/products</java.net.URL>
+</httpSample>
+<httpSample t="5" it="0" lt="5" ct="0" ts="1680242027263" s="true" lb="API Most Purchased Request" rc="200" rm="" tn="API Testing Thread Group 1-40" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mp/products</java.net.URL>
+</httpSample>
+<httpSample t="5" it="0" lt="5" ct="1" ts="1680242027346" s="true" lb="API All products Request" rc="200" rm="" tn="API Testing Thread Group 1-41" dt="text" by="1697" sby="195" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/all/products</java.net.URL>
+</httpSample>
+<httpSample t="6" it="0" lt="6" ct="0" ts="1680242027352" s="true" lb="API One Category Request" rc="200" rm="" tn="API Testing Thread Group 1-41" dt="text" by="865" sby="157" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/category/1/products</java.net.URL>
+</httpSample>
+<httpSample t="6" it="0" lt="6" ct="0" ts="1680242027359" s="true" lb="API Most Viewed Request" rc="200" rm="" tn="API Testing Thread Group 1-41" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mv/products</java.net.URL>
+</httpSample>
+<httpSample t="7" it="0" lt="7" ct="0" ts="1680242027366" s="true" lb="API Most Purchased Request" rc="200" rm="" tn="API Testing Thread Group 1-41" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mp/products</java.net.URL>
+</httpSample>
+<httpSample t="5" it="0" lt="5" ct="0" ts="1680242027485" s="true" lb="API All products Request" rc="200" rm="" tn="API Testing Thread Group 1-42" dt="text" by="1697" sby="195" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/all/products</java.net.URL>
+</httpSample>
+<httpSample t="6" it="0" lt="6" ct="0" ts="1680242027490" s="true" lb="API One Category Request" rc="200" rm="" tn="API Testing Thread Group 1-42" dt="text" by="865" sby="157" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/category/1/products</java.net.URL>
+</httpSample>
+<httpSample t="5" it="0" lt="5" ct="0" ts="1680242027496" s="true" lb="API Most Viewed Request" rc="200" rm="" tn="API Testing Thread Group 1-42" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mv/products</java.net.URL>
+</httpSample>
+<httpSample t="5" it="0" lt="5" ct="0" ts="1680242027501" s="true" lb="API Most Purchased Request" rc="200" rm="" tn="API Testing Thread Group 1-42" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mp/products</java.net.URL>
+</httpSample>
+<httpSample t="5" it="0" lt="5" ct="1" ts="1680242027583" s="true" lb="API All products Request" rc="200" rm="" tn="API Testing Thread Group 1-43" dt="text" by="1697" sby="195" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/all/products</java.net.URL>
+</httpSample>
+<httpSample t="6" it="0" lt="6" ct="0" ts="1680242027588" s="true" lb="API One Category Request" rc="200" rm="" tn="API Testing Thread Group 1-43" dt="text" by="865" sby="157" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/category/1/products</java.net.URL>
+</httpSample>
+<httpSample t="5" it="0" lt="4" ct="0" ts="1680242027595" s="true" lb="API Most Viewed Request" rc="200" rm="" tn="API Testing Thread Group 1-43" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mv/products</java.net.URL>
+</httpSample>
+<httpSample t="5" it="0" lt="5" ct="0" ts="1680242027600" s="true" lb="API Most Purchased Request" rc="200" rm="" tn="API Testing Thread Group 1-43" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mp/products</java.net.URL>
+</httpSample>
+<httpSample t="6" it="0" lt="6" ct="1" ts="1680242027683" s="true" lb="API All products Request" rc="200" rm="" tn="API Testing Thread Group 1-44" dt="text" by="1697" sby="195" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/all/products</java.net.URL>
+</httpSample>
+<httpSample t="6" it="0" lt="6" ct="0" ts="1680242027689" s="true" lb="API One Category Request" rc="200" rm="" tn="API Testing Thread Group 1-44" dt="text" by="865" sby="157" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/category/1/products</java.net.URL>
+</httpSample>
+<httpSample t="4" it="0" lt="4" ct="0" ts="1680242027696" s="true" lb="API Most Viewed Request" rc="200" rm="" tn="API Testing Thread Group 1-44" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mv/products</java.net.URL>
+</httpSample>
+<httpSample t="5" it="0" lt="5" ct="0" ts="1680242027701" s="true" lb="API Most Purchased Request" rc="200" rm="" tn="API Testing Thread Group 1-44" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mp/products</java.net.URL>
+</httpSample>
+<httpSample t="6" it="0" lt="6" ct="1" ts="1680242027783" s="true" lb="API All products Request" rc="200" rm="" tn="API Testing Thread Group 1-45" dt="text" by="1697" sby="195" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/all/products</java.net.URL>
+</httpSample>
+<httpSample t="7" it="0" lt="6" ct="0" ts="1680242027790" s="true" lb="API One Category Request" rc="200" rm="" tn="API Testing Thread Group 1-45" dt="text" by="865" sby="157" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/category/1/products</java.net.URL>
+</httpSample>
+<httpSample t="5" it="0" lt="5" ct="0" ts="1680242027797" s="true" lb="API Most Viewed Request" rc="200" rm="" tn="API Testing Thread Group 1-45" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mv/products</java.net.URL>
+</httpSample>
+<httpSample t="8" it="0" lt="8" ct="0" ts="1680242027803" s="true" lb="API Most Purchased Request" rc="200" rm="" tn="API Testing Thread Group 1-45" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mp/products</java.net.URL>
+</httpSample>
+<httpSample t="6" it="0" lt="6" ct="1" ts="1680242027882" s="true" lb="API All products Request" rc="200" rm="" tn="API Testing Thread Group 1-46" dt="text" by="1697" sby="195" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/all/products</java.net.URL>
+</httpSample>
+<httpSample t="6" it="0" lt="6" ct="0" ts="1680242027888" s="true" lb="API One Category Request" rc="200" rm="" tn="API Testing Thread Group 1-46" dt="text" by="865" sby="157" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/category/1/products</java.net.URL>
+</httpSample>
+<httpSample t="5" it="0" lt="5" ct="0" ts="1680242027895" s="true" lb="API Most Viewed Request" rc="200" rm="" tn="API Testing Thread Group 1-46" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mv/products</java.net.URL>
+</httpSample>
+<httpSample t="4" it="0" lt="4" ct="0" ts="1680242027901" s="true" lb="API Most Purchased Request" rc="200" rm="" tn="API Testing Thread Group 1-46" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mp/products</java.net.URL>
+</httpSample>
+<httpSample t="14" it="0" lt="13" ct="2" ts="1680242028015" s="true" lb="API All products Request" rc="200" rm="" tn="API Testing Thread Group 1-47" dt="text" by="1697" sby="195" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/all/products</java.net.URL>
+</httpSample>
+<httpSample t="18" it="0" lt="18" ct="0" ts="1680242028030" s="true" lb="API One Category Request" rc="200" rm="" tn="API Testing Thread Group 1-47" dt="text" by="865" sby="157" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/category/1/products</java.net.URL>
+</httpSample>
+<httpSample t="7" it="0" lt="7" ct="0" ts="1680242028049" s="true" lb="API Most Viewed Request" rc="200" rm="" tn="API Testing Thread Group 1-47" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mv/products</java.net.URL>
+</httpSample>
+<httpSample t="11" it="0" lt="11" ct="0" ts="1680242028056" s="true" lb="API Most Purchased Request" rc="200" rm="" tn="API Testing Thread Group 1-47" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mp/products</java.net.URL>
+</httpSample>
+<httpSample t="15" it="0" lt="15" ct="2" ts="1680242028095" s="true" lb="API All products Request" rc="200" rm="" tn="API Testing Thread Group 1-48" dt="text" by="1697" sby="195" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/all/products</java.net.URL>
+</httpSample>
+<httpSample t="9" it="0" lt="9" ct="0" ts="1680242028112" s="true" lb="API One Category Request" rc="200" rm="" tn="API Testing Thread Group 1-48" dt="text" by="865" sby="157" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/category/1/products</java.net.URL>
+</httpSample>
+<httpSample t="7" it="0" lt="7" ct="0" ts="1680242028122" s="true" lb="API Most Viewed Request" rc="200" rm="" tn="API Testing Thread Group 1-48" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mv/products</java.net.URL>
+</httpSample>
+<httpSample t="6" it="0" lt="6" ct="0" ts="1680242028130" s="true" lb="API Most Purchased Request" rc="200" rm="" tn="API Testing Thread Group 1-48" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mp/products</java.net.URL>
+</httpSample>
+<httpSample t="12" it="0" lt="12" ct="2" ts="1680242028196" s="true" lb="API All products Request" rc="200" rm="" tn="API Testing Thread Group 1-49" dt="text" by="1697" sby="195" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/all/products</java.net.URL>
+</httpSample>
+<httpSample t="11" it="0" lt="11" ct="0" ts="1680242028209" s="true" lb="API One Category Request" rc="200" rm="" tn="API Testing Thread Group 1-49" dt="text" by="865" sby="157" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/category/1/products</java.net.URL>
+</httpSample>
+<httpSample t="6" it="0" lt="6" ct="0" ts="1680242028220" s="true" lb="API Most Viewed Request" rc="200" rm="" tn="API Testing Thread Group 1-49" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mv/products</java.net.URL>
+</httpSample>
+<httpSample t="4" it="0" lt="4" ct="0" ts="1680242028227" s="true" lb="API Most Purchased Request" rc="200" rm="" tn="API Testing Thread Group 1-49" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mp/products</java.net.URL>
+</httpSample>
+<httpSample t="18" it="0" lt="17" ct="2" ts="1680242028348" s="true" lb="API All products Request" rc="200" rm="" tn="API Testing Thread Group 1-50" dt="text" by="1697" sby="195" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/all/products</java.net.URL>
+</httpSample>
+<httpSample t="16" it="0" lt="16" ct="0" ts="1680242028367" s="true" lb="API One Category Request" rc="200" rm="" tn="API Testing Thread Group 1-50" dt="text" by="865" sby="157" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/category/1/products</java.net.URL>
+</httpSample>
+<httpSample t="10" it="0" lt="10" ct="0" ts="1680242028384" s="true" lb="API Most Viewed Request" rc="200" rm="" tn="API Testing Thread Group 1-50" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mv/products</java.net.URL>
+</httpSample>
+<httpSample t="7" it="0" lt="7" ct="0" ts="1680242028395" s="true" lb="API Most Purchased Request" rc="200" rm="" tn="API Testing Thread Group 1-50" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mp/products</java.net.URL>
+</httpSample>
+<httpSample t="20" it="0" lt="18" ct="3" ts="1680242028426" s="true" lb="API All products Request" rc="200" rm="" tn="API Testing Thread Group 1-51" dt="text" by="1697" sby="195" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/all/products</java.net.URL>
+</httpSample>
+<httpSample t="9" it="0" lt="9" ct="0" ts="1680242028449" s="true" lb="API One Category Request" rc="200" rm="" tn="API Testing Thread Group 1-51" dt="text" by="865" sby="157" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/category/1/products</java.net.URL>
+</httpSample>
+<httpSample t="7" it="0" lt="6" ct="0" ts="1680242028459" s="true" lb="API Most Viewed Request" rc="200" rm="" tn="API Testing Thread Group 1-51" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mv/products</java.net.URL>
+</httpSample>
+<httpSample t="5" it="0" lt="5" ct="0" ts="1680242028466" s="true" lb="API Most Purchased Request" rc="200" rm="" tn="API Testing Thread Group 1-51" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mp/products</java.net.URL>
+</httpSample>
+<httpSample t="18" it="0" lt="17" ct="2" ts="1680242028529" s="true" lb="API All products Request" rc="200" rm="" tn="API Testing Thread Group 1-52" dt="text" by="1697" sby="195" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/all/products</java.net.URL>
+</httpSample>
+<httpSample t="16" it="0" lt="16" ct="0" ts="1680242028549" s="true" lb="API One Category Request" rc="200" rm="" tn="API Testing Thread Group 1-52" dt="text" by="865" sby="157" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/category/1/products</java.net.URL>
+</httpSample>
+<httpSample t="6" it="0" lt="6" ct="0" ts="1680242028566" s="true" lb="API Most Viewed Request" rc="200" rm="" tn="API Testing Thread Group 1-52" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mv/products</java.net.URL>
+</httpSample>
+<httpSample t="11" it="0" lt="11" ct="0" ts="1680242028573" s="true" lb="API Most Purchased Request" rc="200" rm="" tn="API Testing Thread Group 1-52" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mp/products</java.net.URL>
+</httpSample>
+<httpSample t="10" it="0" lt="10" ct="2" ts="1680242028627" s="true" lb="API All products Request" rc="200" rm="" tn="API Testing Thread Group 1-53" dt="text" by="1697" sby="195" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/all/products</java.net.URL>
+</httpSample>
+<httpSample t="10" it="0" lt="9" ct="0" ts="1680242028638" s="true" lb="API One Category Request" rc="200" rm="" tn="API Testing Thread Group 1-53" dt="text" by="865" sby="157" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/category/1/products</java.net.URL>
+</httpSample>
+<httpSample t="5" it="0" lt="5" ct="0" ts="1680242028648" s="true" lb="API Most Viewed Request" rc="200" rm="" tn="API Testing Thread Group 1-53" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mv/products</java.net.URL>
+</httpSample>
+<httpSample t="4" it="0" lt="4" ct="0" ts="1680242028653" s="true" lb="API Most Purchased Request" rc="200" rm="" tn="API Testing Thread Group 1-53" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mp/products</java.net.URL>
+</httpSample>
+<httpSample t="18" it="0" lt="18" ct="2" ts="1680242028750" s="true" lb="API All products Request" rc="200" rm="" tn="API Testing Thread Group 1-54" dt="text" by="1697" sby="195" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/all/products</java.net.URL>
+</httpSample>
+<httpSample t="11" it="0" lt="11" ct="0" ts="1680242028769" s="true" lb="API One Category Request" rc="200" rm="" tn="API Testing Thread Group 1-54" dt="text" by="865" sby="157" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/category/1/products</java.net.URL>
+</httpSample>
+<httpSample t="5" it="0" lt="5" ct="0" ts="1680242028781" s="true" lb="API Most Viewed Request" rc="200" rm="" tn="API Testing Thread Group 1-54" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mv/products</java.net.URL>
+</httpSample>
+<httpSample t="5" it="0" lt="5" ct="0" ts="1680242028787" s="true" lb="API Most Purchased Request" rc="200" rm="" tn="API Testing Thread Group 1-54" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mp/products</java.net.URL>
+</httpSample>
+<httpSample t="19" it="0" lt="19" ct="2" ts="1680242028849" s="true" lb="API All products Request" rc="200" rm="" tn="API Testing Thread Group 1-55" dt="text" by="1697" sby="195" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/all/products</java.net.URL>
+</httpSample>
+<httpSample t="14" it="0" lt="14" ct="0" ts="1680242028869" s="true" lb="API One Category Request" rc="200" rm="" tn="API Testing Thread Group 1-55" dt="text" by="865" sby="157" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/category/1/products</java.net.URL>
+</httpSample>
+<httpSample t="6" it="0" lt="6" ct="0" ts="1680242028883" s="true" lb="API Most Viewed Request" rc="200" rm="" tn="API Testing Thread Group 1-55" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mv/products</java.net.URL>
+</httpSample>
+<httpSample t="6" it="0" lt="6" ct="0" ts="1680242028889" s="true" lb="API Most Purchased Request" rc="200" rm="" tn="API Testing Thread Group 1-55" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mp/products</java.net.URL>
+</httpSample>
+<httpSample t="15" it="0" lt="13" ct="3" ts="1680242028948" s="true" lb="API All products Request" rc="200" rm="" tn="API Testing Thread Group 1-56" dt="text" by="1697" sby="195" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/all/products</java.net.URL>
+</httpSample>
+<httpSample t="31" it="0" lt="31" ct="0" ts="1680242028964" s="true" lb="API One Category Request" rc="200" rm="" tn="API Testing Thread Group 1-56" dt="text" by="865" sby="157" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/category/1/products</java.net.URL>
+</httpSample>
+<httpSample t="10" it="0" lt="10" ct="0" ts="1680242028996" s="true" lb="API Most Viewed Request" rc="200" rm="" tn="API Testing Thread Group 1-56" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mv/products</java.net.URL>
+</httpSample>
+<httpSample t="13" it="0" lt="13" ct="0" ts="1680242029006" s="true" lb="API Most Purchased Request" rc="200" rm="" tn="API Testing Thread Group 1-56" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mp/products</java.net.URL>
+</httpSample>
+<httpSample t="17" it="0" lt="17" ct="1" ts="1680242029053" s="true" lb="API All products Request" rc="200" rm="" tn="API Testing Thread Group 1-57" dt="text" by="1697" sby="195" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/all/products</java.net.URL>
+</httpSample>
+<httpSample t="11" it="0" lt="11" ct="0" ts="1680242029071" s="true" lb="API One Category Request" rc="200" rm="" tn="API Testing Thread Group 1-57" dt="text" by="865" sby="157" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/category/1/products</java.net.URL>
+</httpSample>
+<httpSample t="6" it="0" lt="6" ct="0" ts="1680242029082" s="true" lb="API Most Viewed Request" rc="200" rm="" tn="API Testing Thread Group 1-57" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mv/products</java.net.URL>
+</httpSample>
+<httpSample t="12" it="0" lt="12" ct="0" ts="1680242029089" s="true" lb="API Most Purchased Request" rc="200" rm="" tn="API Testing Thread Group 1-57" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mp/products</java.net.URL>
+</httpSample>
+<httpSample t="16" it="0" lt="15" ct="1" ts="1680242029150" s="true" lb="API All products Request" rc="200" rm="" tn="API Testing Thread Group 1-58" dt="text" by="1697" sby="195" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/all/products</java.net.URL>
+</httpSample>
+<httpSample t="6" it="0" lt="6" ct="0" ts="1680242029166" s="true" lb="API One Category Request" rc="200" rm="" tn="API Testing Thread Group 1-58" dt="text" by="865" sby="157" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/category/1/products</java.net.URL>
+</httpSample>
+<httpSample t="12" it="0" lt="12" ct="0" ts="1680242029173" s="true" lb="API Most Viewed Request" rc="200" rm="" tn="API Testing Thread Group 1-58" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mv/products</java.net.URL>
+</httpSample>
+<httpSample t="8" it="0" lt="8" ct="0" ts="1680242029186" s="true" lb="API Most Purchased Request" rc="200" rm="" tn="API Testing Thread Group 1-58" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mp/products</java.net.URL>
+</httpSample>
+<httpSample t="13" it="0" lt="13" ct="1" ts="1680242029252" s="true" lb="API All products Request" rc="200" rm="" tn="API Testing Thread Group 1-59" dt="text" by="1697" sby="195" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/all/products</java.net.URL>
+</httpSample>
+<httpSample t="5" it="0" lt="5" ct="0" ts="1680242029266" s="true" lb="API One Category Request" rc="200" rm="" tn="API Testing Thread Group 1-59" dt="text" by="865" sby="157" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/category/1/products</java.net.URL>
+</httpSample>
+<httpSample t="14" it="0" lt="14" ct="0" ts="1680242029271" s="true" lb="API Most Viewed Request" rc="200" rm="" tn="API Testing Thread Group 1-59" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mv/products</java.net.URL>
+</httpSample>
+<httpSample t="4" it="0" lt="4" ct="0" ts="1680242029285" s="true" lb="API Most Purchased Request" rc="200" rm="" tn="API Testing Thread Group 1-59" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mp/products</java.net.URL>
+</httpSample>
+<httpSample t="11" it="0" lt="11" ct="1" ts="1680242029352" s="true" lb="API All products Request" rc="200" rm="" tn="API Testing Thread Group 1-60" dt="text" by="1697" sby="195" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/all/products</java.net.URL>
+</httpSample>
+<httpSample t="7" it="0" lt="7" ct="0" ts="1680242029364" s="true" lb="API One Category Request" rc="200" rm="" tn="API Testing Thread Group 1-60" dt="text" by="865" sby="157" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/category/1/products</java.net.URL>
+</httpSample>
+<httpSample t="11" it="0" lt="11" ct="0" ts="1680242029371" s="true" lb="API Most Viewed Request" rc="200" rm="" tn="API Testing Thread Group 1-60" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mv/products</java.net.URL>
+</httpSample>
+<httpSample t="13" it="0" lt="13" ct="0" ts="1680242029383" s="true" lb="API Most Purchased Request" rc="200" rm="" tn="API Testing Thread Group 1-60" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mp/products</java.net.URL>
+</httpSample>
+<httpSample t="6" it="0" lt="6" ct="1" ts="1680242029450" s="true" lb="API All products Request" rc="200" rm="" tn="API Testing Thread Group 1-61" dt="text" by="1697" sby="195" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/all/products</java.net.URL>
+</httpSample>
+<httpSample t="6" it="0" lt="6" ct="0" ts="1680242029456" s="true" lb="API One Category Request" rc="200" rm="" tn="API Testing Thread Group 1-61" dt="text" by="865" sby="157" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/category/1/products</java.net.URL>
+</httpSample>
+<httpSample t="5" it="0" lt="4" ct="0" ts="1680242029463" s="true" lb="API Most Viewed Request" rc="200" rm="" tn="API Testing Thread Group 1-61" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mv/products</java.net.URL>
+</httpSample>
+<httpSample t="12" it="0" lt="12" ct="0" ts="1680242029468" s="true" lb="API Most Purchased Request" rc="200" rm="" tn="API Testing Thread Group 1-61" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mp/products</java.net.URL>
+</httpSample>
+<httpSample t="19" it="0" lt="18" ct="3" ts="1680242029551" s="true" lb="API All products Request" rc="200" rm="" tn="API Testing Thread Group 1-62" dt="text" by="1697" sby="195" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/all/products</java.net.URL>
+</httpSample>
+<httpSample t="14" it="0" lt="14" ct="0" ts="1680242029571" s="true" lb="API One Category Request" rc="200" rm="" tn="API Testing Thread Group 1-62" dt="text" by="865" sby="157" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/category/1/products</java.net.URL>
+</httpSample>
+<httpSample t="8" it="0" lt="8" ct="0" ts="1680242029586" s="true" lb="API Most Viewed Request" rc="200" rm="" tn="API Testing Thread Group 1-62" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mv/products</java.net.URL>
+</httpSample>
+<httpSample t="7" it="0" lt="7" ct="0" ts="1680242029594" s="true" lb="API Most Purchased Request" rc="200" rm="" tn="API Testing Thread Group 1-62" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mp/products</java.net.URL>
+</httpSample>
+<httpSample t="9" it="0" lt="8" ct="1" ts="1680242029670" s="true" lb="API All products Request" rc="200" rm="" tn="API Testing Thread Group 1-63" dt="text" by="1697" sby="195" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/all/products</java.net.URL>
+</httpSample>
+<httpSample t="4" it="0" lt="4" ct="0" ts="1680242029679" s="true" lb="API One Category Request" rc="200" rm="" tn="API Testing Thread Group 1-63" dt="text" by="865" sby="157" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/category/1/products</java.net.URL>
+</httpSample>
+<httpSample t="4" it="0" lt="4" ct="0" ts="1680242029684" s="true" lb="API Most Viewed Request" rc="200" rm="" tn="API Testing Thread Group 1-63" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mv/products</java.net.URL>
+</httpSample>
+<httpSample t="5" it="0" lt="5" ct="0" ts="1680242029688" s="true" lb="API Most Purchased Request" rc="200" rm="" tn="API Testing Thread Group 1-63" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mp/products</java.net.URL>
+</httpSample>
+<httpSample t="22" it="0" lt="22" ct="7" ts="1680242029771" s="true" lb="API All products Request" rc="200" rm="" tn="API Testing Thread Group 1-64" dt="text" by="1697" sby="195" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/all/products</java.net.URL>
+</httpSample>
+<httpSample t="8" it="0" lt="7" ct="0" ts="1680242029794" s="true" lb="API One Category Request" rc="200" rm="" tn="API Testing Thread Group 1-64" dt="text" by="865" sby="157" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/category/1/products</java.net.URL>
+</httpSample>
+<httpSample t="8" it="0" lt="8" ct="0" ts="1680242029802" s="true" lb="API Most Viewed Request" rc="200" rm="" tn="API Testing Thread Group 1-64" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mv/products</java.net.URL>
+</httpSample>
+<httpSample t="5" it="0" lt="5" ct="0" ts="1680242029813" s="true" lb="API Most Purchased Request" rc="200" rm="" tn="API Testing Thread Group 1-64" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mp/products</java.net.URL>
+</httpSample>
+<httpSample t="12" it="0" lt="12" ct="3" ts="1680242029876" s="true" lb="API All products Request" rc="200" rm="" tn="API Testing Thread Group 1-65" dt="text" by="1697" sby="195" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/all/products</java.net.URL>
+</httpSample>
+<httpSample t="12" it="0" lt="12" ct="0" ts="1680242029889" s="true" lb="API One Category Request" rc="200" rm="" tn="API Testing Thread Group 1-65" dt="text" by="865" sby="157" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/category/1/products</java.net.URL>
+</httpSample>
+<httpSample t="5" it="0" lt="5" ct="0" ts="1680242029902" s="true" lb="API Most Viewed Request" rc="200" rm="" tn="API Testing Thread Group 1-65" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mv/products</java.net.URL>
+</httpSample>
+<httpSample t="9" it="0" lt="9" ct="0" ts="1680242029907" s="true" lb="API Most Purchased Request" rc="200" rm="" tn="API Testing Thread Group 1-65" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mp/products</java.net.URL>
+</httpSample>
+<httpSample t="18" it="0" lt="18" ct="2" ts="1680242029968" s="true" lb="API All products Request" rc="200" rm="" tn="API Testing Thread Group 1-66" dt="text" by="1697" sby="195" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/all/products</java.net.URL>
+</httpSample>
+<httpSample t="13" it="0" lt="13" ct="0" ts="1680242029988" s="true" lb="API One Category Request" rc="200" rm="" tn="API Testing Thread Group 1-66" dt="text" by="865" sby="157" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/category/1/products</java.net.URL>
+</httpSample>
+<httpSample t="12" it="0" lt="12" ct="0" ts="1680242030002" s="true" lb="API Most Viewed Request" rc="200" rm="" tn="API Testing Thread Group 1-66" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mv/products</java.net.URL>
+</httpSample>
+<httpSample t="6" it="0" lt="6" ct="0" ts="1680242030014" s="true" lb="API Most Purchased Request" rc="200" rm="" tn="API Testing Thread Group 1-66" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mp/products</java.net.URL>
+</httpSample>
+<httpSample t="19" it="0" lt="19" ct="2" ts="1680242030066" s="true" lb="API All products Request" rc="200" rm="" tn="API Testing Thread Group 1-67" dt="text" by="1697" sby="195" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/all/products</java.net.URL>
+</httpSample>
+<httpSample t="13" it="0" lt="13" ct="0" ts="1680242030086" s="true" lb="API One Category Request" rc="200" rm="" tn="API Testing Thread Group 1-67" dt="text" by="865" sby="157" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/category/1/products</java.net.URL>
+</httpSample>
+<httpSample t="5" it="0" lt="5" ct="0" ts="1680242030100" s="true" lb="API Most Viewed Request" rc="200" rm="" tn="API Testing Thread Group 1-67" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mv/products</java.net.URL>
+</httpSample>
+<httpSample t="11" it="0" lt="11" ct="0" ts="1680242030106" s="true" lb="API Most Purchased Request" rc="200" rm="" tn="API Testing Thread Group 1-67" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mp/products</java.net.URL>
+</httpSample>
+<httpSample t="5" it="0" lt="5" ct="1" ts="1680242030163" s="true" lb="API All products Request" rc="200" rm="" tn="API Testing Thread Group 1-68" dt="text" by="1697" sby="195" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/all/products</java.net.URL>
+</httpSample>
+<httpSample t="9" it="0" lt="9" ct="0" ts="1680242030168" s="true" lb="API One Category Request" rc="200" rm="" tn="API Testing Thread Group 1-68" dt="text" by="865" sby="157" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/category/1/products</java.net.URL>
+</httpSample>
+<httpSample t="6" it="0" lt="6" ct="0" ts="1680242030179" s="true" lb="API Most Viewed Request" rc="200" rm="" tn="API Testing Thread Group 1-68" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mv/products</java.net.URL>
+</httpSample>
+<httpSample t="5" it="0" lt="5" ct="0" ts="1680242030186" s="true" lb="API Most Purchased Request" rc="200" rm="" tn="API Testing Thread Group 1-68" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mp/products</java.net.URL>
+</httpSample>
+<httpSample t="30" it="0" lt="30" ct="13" ts="1680242030268" s="true" lb="API All products Request" rc="200" rm="" tn="API Testing Thread Group 1-69" dt="text" by="1697" sby="195" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/all/products</java.net.URL>
+</httpSample>
+<httpSample t="6" it="0" lt="6" ct="0" ts="1680242030299" s="true" lb="API One Category Request" rc="200" rm="" tn="API Testing Thread Group 1-69" dt="text" by="865" sby="157" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/category/1/products</java.net.URL>
+</httpSample>
+<httpSample t="10" it="0" lt="9" ct="0" ts="1680242030305" s="true" lb="API Most Viewed Request" rc="200" rm="" tn="API Testing Thread Group 1-69" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mv/products</java.net.URL>
+</httpSample>
+<httpSample t="5" it="0" lt="5" ct="0" ts="1680242030315" s="true" lb="API Most Purchased Request" rc="200" rm="" tn="API Testing Thread Group 1-69" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mp/products</java.net.URL>
+</httpSample>
+<httpSample t="21" it="0" lt="20" ct="3" ts="1680242030368" s="true" lb="API All products Request" rc="200" rm="" tn="API Testing Thread Group 1-70" dt="text" by="1697" sby="195" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/all/products</java.net.URL>
+</httpSample>
+<httpSample t="11" it="0" lt="11" ct="0" ts="1680242030389" s="true" lb="API One Category Request" rc="200" rm="" tn="API Testing Thread Group 1-70" dt="text" by="865" sby="157" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/category/1/products</java.net.URL>
+</httpSample>
+<httpSample t="5" it="0" lt="5" ct="0" ts="1680242030401" s="true" lb="API Most Viewed Request" rc="200" rm="" tn="API Testing Thread Group 1-70" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mv/products</java.net.URL>
+</httpSample>
+<httpSample t="8" it="0" lt="8" ct="0" ts="1680242030407" s="true" lb="API Most Purchased Request" rc="200" rm="" tn="API Testing Thread Group 1-70" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mp/products</java.net.URL>
+</httpSample>
+<httpSample t="22" it="0" lt="22" ct="2" ts="1680242030465" s="true" lb="API All products Request" rc="200" rm="" tn="API Testing Thread Group 1-71" dt="text" by="1697" sby="195" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/all/products</java.net.URL>
+</httpSample>
+<httpSample t="16" it="0" lt="15" ct="0" ts="1680242030488" s="true" lb="API One Category Request" rc="200" rm="" tn="API Testing Thread Group 1-71" dt="text" by="865" sby="157" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/category/1/products</java.net.URL>
+</httpSample>
+<httpSample t="11" it="0" lt="10" ct="0" ts="1680242030504" s="true" lb="API Most Viewed Request" rc="200" rm="" tn="API Testing Thread Group 1-71" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mv/products</java.net.URL>
+</httpSample>
+<httpSample t="5" it="0" lt="5" ct="0" ts="1680242030515" s="true" lb="API Most Purchased Request" rc="200" rm="" tn="API Testing Thread Group 1-71" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mp/products</java.net.URL>
+</httpSample>
+<httpSample t="5" it="0" lt="5" ct="1" ts="1680242030562" s="true" lb="API All products Request" rc="200" rm="" tn="API Testing Thread Group 1-72" dt="text" by="1697" sby="195" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/all/products</java.net.URL>
+</httpSample>
+<httpSample t="4" it="0" lt="4" ct="0" ts="1680242030568" s="true" lb="API One Category Request" rc="200" rm="" tn="API Testing Thread Group 1-72" dt="text" by="865" sby="157" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/category/1/products</java.net.URL>
+</httpSample>
+<httpSample t="9" it="0" lt="8" ct="0" ts="1680242030572" s="true" lb="API Most Viewed Request" rc="200" rm="" tn="API Testing Thread Group 1-72" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mv/products</java.net.URL>
+</httpSample>
+<httpSample t="4" it="0" lt="4" ct="0" ts="1680242030581" s="true" lb="API Most Purchased Request" rc="200" rm="" tn="API Testing Thread Group 1-72" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mp/products</java.net.URL>
+</httpSample>
+<httpSample t="22" it="0" lt="22" ct="3" ts="1680242030667" s="true" lb="API All products Request" rc="200" rm="" tn="API Testing Thread Group 1-73" dt="text" by="1697" sby="195" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/all/products</java.net.URL>
+</httpSample>
+<httpSample t="9" it="0" lt="8" ct="0" ts="1680242030690" s="true" lb="API One Category Request" rc="200" rm="" tn="API Testing Thread Group 1-73" dt="text" by="865" sby="157" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/category/1/products</java.net.URL>
+</httpSample>
+<httpSample t="6" it="0" lt="5" ct="0" ts="1680242030699" s="true" lb="API Most Viewed Request" rc="200" rm="" tn="API Testing Thread Group 1-73" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mv/products</java.net.URL>
+</httpSample>
+<httpSample t="8" it="0" lt="8" ct="0" ts="1680242030705" s="true" lb="API Most Purchased Request" rc="200" rm="" tn="API Testing Thread Group 1-73" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mp/products</java.net.URL>
+</httpSample>
+<httpSample t="7" it="0" lt="7" ct="1" ts="1680242030766" s="true" lb="API All products Request" rc="200" rm="" tn="API Testing Thread Group 1-74" dt="text" by="1697" sby="195" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/all/products</java.net.URL>
+</httpSample>
+<httpSample t="9" it="0" lt="9" ct="0" ts="1680242030774" s="true" lb="API One Category Request" rc="200" rm="" tn="API Testing Thread Group 1-74" dt="text" by="865" sby="157" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/category/1/products</java.net.URL>
+</httpSample>
+<httpSample t="5" it="0" lt="5" ct="0" ts="1680242030783" s="true" lb="API Most Viewed Request" rc="200" rm="" tn="API Testing Thread Group 1-74" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mv/products</java.net.URL>
+</httpSample>
+<httpSample t="6" it="0" lt="6" ct="0" ts="1680242030788" s="true" lb="API Most Purchased Request" rc="200" rm="" tn="API Testing Thread Group 1-74" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mp/products</java.net.URL>
+</httpSample>
+<httpSample t="11" it="0" lt="11" ct="2" ts="1680242030865" s="true" lb="API All products Request" rc="200" rm="" tn="API Testing Thread Group 1-75" dt="text" by="1697" sby="195" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/all/products</java.net.URL>
+</httpSample>
+<httpSample t="8" it="0" lt="8" ct="0" ts="1680242030878" s="true" lb="API One Category Request" rc="200" rm="" tn="API Testing Thread Group 1-75" dt="text" by="865" sby="157" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/category/1/products</java.net.URL>
+</httpSample>
+<httpSample t="8" it="0" lt="8" ct="0" ts="1680242030886" s="true" lb="API Most Viewed Request" rc="200" rm="" tn="API Testing Thread Group 1-75" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mv/products</java.net.URL>
+</httpSample>
+<httpSample t="6" it="0" lt="6" ct="0" ts="1680242030895" s="true" lb="API Most Purchased Request" rc="200" rm="" tn="API Testing Thread Group 1-75" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mp/products</java.net.URL>
+</httpSample>
+<httpSample t="19" it="0" lt="19" ct="3" ts="1680242030964" s="true" lb="API All products Request" rc="200" rm="" tn="API Testing Thread Group 1-76" dt="text" by="1697" sby="195" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/all/products</java.net.URL>
+</httpSample>
+<httpSample t="6" it="0" lt="6" ct="0" ts="1680242030984" s="true" lb="API One Category Request" rc="200" rm="" tn="API Testing Thread Group 1-76" dt="text" by="865" sby="157" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/category/1/products</java.net.URL>
+</httpSample>
+<httpSample t="5" it="0" lt="5" ct="0" ts="1680242030991" s="true" lb="API Most Viewed Request" rc="200" rm="" tn="API Testing Thread Group 1-76" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mv/products</java.net.URL>
+</httpSample>
+<httpSample t="4" it="0" lt="4" ct="0" ts="1680242030997" s="true" lb="API Most Purchased Request" rc="200" rm="" tn="API Testing Thread Group 1-76" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mp/products</java.net.URL>
+</httpSample>
+<httpSample t="21" it="0" lt="21" ct="3" ts="1680242031064" s="true" lb="API All products Request" rc="200" rm="" tn="API Testing Thread Group 1-77" dt="text" by="1697" sby="195" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/all/products</java.net.URL>
+</httpSample>
+<httpSample t="7" it="0" lt="7" ct="0" ts="1680242031086" s="true" lb="API One Category Request" rc="200" rm="" tn="API Testing Thread Group 1-77" dt="text" by="865" sby="157" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/category/1/products</java.net.URL>
+</httpSample>
+<httpSample t="6" it="0" lt="6" ct="0" ts="1680242031094" s="true" lb="API Most Viewed Request" rc="200" rm="" tn="API Testing Thread Group 1-77" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mv/products</java.net.URL>
+</httpSample>
+<httpSample t="5" it="0" lt="5" ct="0" ts="1680242031101" s="true" lb="API Most Purchased Request" rc="200" rm="" tn="API Testing Thread Group 1-77" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mp/products</java.net.URL>
+</httpSample>
+<httpSample t="25" it="0" lt="25" ct="6" ts="1680242031161" s="true" lb="API All products Request" rc="200" rm="" tn="API Testing Thread Group 1-78" dt="text" by="1697" sby="195" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/all/products</java.net.URL>
+</httpSample>
+<httpSample t="11" it="0" lt="11" ct="0" ts="1680242031187" s="true" lb="API One Category Request" rc="200" rm="" tn="API Testing Thread Group 1-78" dt="text" by="865" sby="157" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/category/1/products</java.net.URL>
+</httpSample>
+<httpSample t="6" it="0" lt="6" ct="0" ts="1680242031199" s="true" lb="API Most Viewed Request" rc="200" rm="" tn="API Testing Thread Group 1-78" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mv/products</java.net.URL>
+</httpSample>
+<httpSample t="9" it="0" lt="9" ct="0" ts="1680242031206" s="true" lb="API Most Purchased Request" rc="200" rm="" tn="API Testing Thread Group 1-78" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mp/products</java.net.URL>
+</httpSample>
+<httpSample t="7" it="0" lt="7" ct="0" ts="1680242031255" s="true" lb="API All products Request" rc="200" rm="" tn="API Testing Thread Group 1-79" dt="text" by="1697" sby="195" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/all/products</java.net.URL>
+</httpSample>
+<httpSample t="5" it="0" lt="5" ct="0" ts="1680242031262" s="true" lb="API One Category Request" rc="200" rm="" tn="API Testing Thread Group 1-79" dt="text" by="865" sby="157" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/category/1/products</java.net.URL>
+</httpSample>
+<httpSample t="4" it="0" lt="4" ct="0" ts="1680242031267" s="true" lb="API Most Viewed Request" rc="200" rm="" tn="API Testing Thread Group 1-79" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mv/products</java.net.URL>
+</httpSample>
+<httpSample t="9" it="0" lt="9" ct="0" ts="1680242031272" s="true" lb="API Most Purchased Request" rc="200" rm="" tn="API Testing Thread Group 1-79" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mp/products</java.net.URL>
+</httpSample>
+<httpSample t="10" it="0" lt="10" ct="5" ts="1680242031356" s="true" lb="API All products Request" rc="200" rm="" tn="API Testing Thread Group 1-80" dt="text" by="1697" sby="195" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/all/products</java.net.URL>
+</httpSample>
+<httpSample t="5" it="0" lt="5" ct="0" ts="1680242031366" s="true" lb="API One Category Request" rc="200" rm="" tn="API Testing Thread Group 1-80" dt="text" by="865" sby="157" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/category/1/products</java.net.URL>
+</httpSample>
+<httpSample t="8" it="0" lt="8" ct="0" ts="1680242031372" s="true" lb="API Most Viewed Request" rc="200" rm="" tn="API Testing Thread Group 1-80" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mv/products</java.net.URL>
+</httpSample>
+<httpSample t="6" it="0" lt="6" ct="0" ts="1680242031380" s="true" lb="API Most Purchased Request" rc="200" rm="" tn="API Testing Thread Group 1-80" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mp/products</java.net.URL>
+</httpSample>
+<httpSample t="25" it="0" lt="25" ct="7" ts="1680242031460" s="true" lb="API All products Request" rc="200" rm="" tn="API Testing Thread Group 1-81" dt="text" by="1697" sby="195" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/all/products</java.net.URL>
+</httpSample>
+<httpSample t="11" it="0" lt="11" ct="0" ts="1680242031486" s="true" lb="API One Category Request" rc="200" rm="" tn="API Testing Thread Group 1-81" dt="text" by="865" sby="157" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/category/1/products</java.net.URL>
+</httpSample>
+<httpSample t="5" it="0" lt="5" ct="0" ts="1680242031498" s="true" lb="API Most Viewed Request" rc="200" rm="" tn="API Testing Thread Group 1-81" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mv/products</java.net.URL>
+</httpSample>
+<httpSample t="5" it="0" lt="5" ct="0" ts="1680242031504" s="true" lb="API Most Purchased Request" rc="200" rm="" tn="API Testing Thread Group 1-81" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mp/products</java.net.URL>
+</httpSample>
+<httpSample t="22" it="0" lt="22" ct="7" ts="1680242031573" s="true" lb="API All products Request" rc="200" rm="" tn="API Testing Thread Group 1-82" dt="text" by="1697" sby="195" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/all/products</java.net.URL>
+</httpSample>
+<httpSample t="9" it="0" lt="8" ct="0" ts="1680242031596" s="true" lb="API One Category Request" rc="200" rm="" tn="API Testing Thread Group 1-82" dt="text" by="865" sby="157" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/category/1/products</java.net.URL>
+</httpSample>
+<httpSample t="10" it="0" lt="10" ct="0" ts="1680242031605" s="true" lb="API Most Viewed Request" rc="200" rm="" tn="API Testing Thread Group 1-82" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mv/products</java.net.URL>
+</httpSample>
+<httpSample t="5" it="0" lt="5" ct="0" ts="1680242031616" s="true" lb="API Most Purchased Request" rc="200" rm="" tn="API Testing Thread Group 1-82" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mp/products</java.net.URL>
+</httpSample>
+<httpSample t="6" it="0" lt="6" ct="0" ts="1680242031655" s="true" lb="API All products Request" rc="200" rm="" tn="API Testing Thread Group 1-83" dt="text" by="1697" sby="195" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/all/products</java.net.URL>
+</httpSample>
+<httpSample t="6" it="0" lt="6" ct="0" ts="1680242031661" s="true" lb="API One Category Request" rc="200" rm="" tn="API Testing Thread Group 1-83" dt="text" by="865" sby="157" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/category/1/products</java.net.URL>
+</httpSample>
+<httpSample t="13" it="0" lt="13" ct="0" ts="1680242031667" s="true" lb="API Most Viewed Request" rc="200" rm="" tn="API Testing Thread Group 1-83" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mv/products</java.net.URL>
+</httpSample>
+<httpSample t="7" it="0" lt="6" ct="0" ts="1680242031680" s="true" lb="API Most Purchased Request" rc="200" rm="" tn="API Testing Thread Group 1-83" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mp/products</java.net.URL>
+</httpSample>
+<httpSample t="21" it="0" lt="21" ct="8" ts="1680242031760" s="true" lb="API All products Request" rc="200" rm="" tn="API Testing Thread Group 1-84" dt="text" by="1697" sby="195" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/all/products</java.net.URL>
+</httpSample>
+<httpSample t="5" it="0" lt="5" ct="0" ts="1680242031782" s="true" lb="API One Category Request" rc="200" rm="" tn="API Testing Thread Group 1-84" dt="text" by="865" sby="157" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/category/1/products</java.net.URL>
+</httpSample>
+<httpSample t="13" it="0" lt="13" ct="0" ts="1680242031787" s="true" lb="API Most Viewed Request" rc="200" rm="" tn="API Testing Thread Group 1-84" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mv/products</java.net.URL>
+</httpSample>
+<httpSample t="19" it="0" lt="18" ct="0" ts="1680242031802" s="true" lb="API Most Purchased Request" rc="200" rm="" tn="API Testing Thread Group 1-84" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mp/products</java.net.URL>
+</httpSample>
+<httpSample t="11" it="0" lt="11" ct="1" ts="1680242031852" s="true" lb="API All products Request" rc="200" rm="" tn="API Testing Thread Group 1-85" dt="text" by="1697" sby="195" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/all/products</java.net.URL>
+</httpSample>
+<httpSample t="5" it="0" lt="5" ct="0" ts="1680242031864" s="true" lb="API One Category Request" rc="200" rm="" tn="API Testing Thread Group 1-85" dt="text" by="865" sby="157" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/category/1/products</java.net.URL>
+</httpSample>
+<httpSample t="11" it="0" lt="11" ct="0" ts="1680242031869" s="true" lb="API Most Viewed Request" rc="200" rm="" tn="API Testing Thread Group 1-85" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mv/products</java.net.URL>
+</httpSample>
+<httpSample t="6" it="0" lt="6" ct="0" ts="1680242031880" s="true" lb="API Most Purchased Request" rc="200" rm="" tn="API Testing Thread Group 1-85" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mp/products</java.net.URL>
+</httpSample>
+<httpSample t="26" it="0" lt="26" ct="10" ts="1680242031956" s="true" lb="API All products Request" rc="200" rm="" tn="API Testing Thread Group 1-86" dt="text" by="1697" sby="195" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/all/products</java.net.URL>
+</httpSample>
+<httpSample t="5" it="0" lt="5" ct="0" ts="1680242031983" s="true" lb="API One Category Request" rc="200" rm="" tn="API Testing Thread Group 1-86" dt="text" by="865" sby="157" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/category/1/products</java.net.URL>
+</httpSample>
+<httpSample t="11" it="0" lt="11" ct="0" ts="1680242031989" s="true" lb="API Most Viewed Request" rc="200" rm="" tn="API Testing Thread Group 1-86" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mv/products</java.net.URL>
+</httpSample>
+<httpSample t="5" it="0" lt="4" ct="0" ts="1680242032001" s="true" lb="API Most Purchased Request" rc="200" rm="" tn="API Testing Thread Group 1-86" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mp/products</java.net.URL>
+</httpSample>
+<httpSample t="13" it="0" lt="13" ct="1" ts="1680242032053" s="true" lb="API All products Request" rc="200" rm="" tn="API Testing Thread Group 1-87" dt="text" by="1697" sby="195" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/all/products</java.net.URL>
+</httpSample>
+<httpSample t="4" it="0" lt="4" ct="0" ts="1680242032067" s="true" lb="API One Category Request" rc="200" rm="" tn="API Testing Thread Group 1-87" dt="text" by="865" sby="157" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/category/1/products</java.net.URL>
+</httpSample>
+<httpSample t="9" it="0" lt="9" ct="0" ts="1680242032072" s="true" lb="API Most Viewed Request" rc="200" rm="" tn="API Testing Thread Group 1-87" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mv/products</java.net.URL>
+</httpSample>
+<httpSample t="4" it="0" lt="4" ct="0" ts="1680242032081" s="true" lb="API Most Purchased Request" rc="200" rm="" tn="API Testing Thread Group 1-87" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mp/products</java.net.URL>
+</httpSample>
+<httpSample t="8" it="0" lt="8" ct="1" ts="1680242032153" s="true" lb="API All products Request" rc="200" rm="" tn="API Testing Thread Group 1-88" dt="text" by="1697" sby="195" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/all/products</java.net.URL>
+</httpSample>
+<httpSample t="5" it="0" lt="5" ct="0" ts="1680242032162" s="true" lb="API One Category Request" rc="200" rm="" tn="API Testing Thread Group 1-88" dt="text" by="865" sby="157" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/category/1/products</java.net.URL>
+</httpSample>
+<httpSample t="5" it="0" lt="5" ct="0" ts="1680242032168" s="true" lb="API Most Viewed Request" rc="200" rm="" tn="API Testing Thread Group 1-88" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mv/products</java.net.URL>
+</httpSample>
+<httpSample t="8" it="0" lt="8" ct="0" ts="1680242032174" s="true" lb="API Most Purchased Request" rc="200" rm="" tn="API Testing Thread Group 1-88" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mp/products</java.net.URL>
+</httpSample>
+<httpSample t="31" it="0" lt="30" ct="3" ts="1680242032253" s="true" lb="API All products Request" rc="200" rm="" tn="API Testing Thread Group 1-89" dt="text" by="1697" sby="195" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/all/products</java.net.URL>
+</httpSample>
+<httpSample t="12" it="0" lt="12" ct="0" ts="1680242032284" s="true" lb="API One Category Request" rc="200" rm="" tn="API Testing Thread Group 1-89" dt="text" by="865" sby="157" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/category/1/products</java.net.URL>
+</httpSample>
+<httpSample t="6" it="0" lt="6" ct="0" ts="1680242032297" s="true" lb="API Most Viewed Request" rc="200" rm="" tn="API Testing Thread Group 1-89" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mv/products</java.net.URL>
+</httpSample>
+<httpSample t="14" it="0" lt="14" ct="0" ts="1680242032303" s="true" lb="API Most Purchased Request" rc="200" rm="" tn="API Testing Thread Group 1-89" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mp/products</java.net.URL>
+</httpSample>
+<httpSample t="14" it="0" lt="14" ct="2" ts="1680242032351" s="true" lb="API All products Request" rc="200" rm="" tn="API Testing Thread Group 1-90" dt="text" by="1697" sby="195" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/all/products</java.net.URL>
+</httpSample>
+<httpSample t="11" it="0" lt="10" ct="0" ts="1680242032366" s="true" lb="API One Category Request" rc="200" rm="" tn="API Testing Thread Group 1-90" dt="text" by="865" sby="157" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/category/1/products</java.net.URL>
+</httpSample>
+<httpSample t="7" it="0" lt="7" ct="0" ts="1680242032379" s="true" lb="API Most Viewed Request" rc="200" rm="" tn="API Testing Thread Group 1-90" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mv/products</java.net.URL>
+</httpSample>
+<httpSample t="10" it="0" lt="10" ct="0" ts="1680242032387" s="true" lb="API Most Purchased Request" rc="200" rm="" tn="API Testing Thread Group 1-90" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mp/products</java.net.URL>
+</httpSample>
+<httpSample t="15" it="0" lt="14" ct="5" ts="1680242032455" s="true" lb="API All products Request" rc="200" rm="" tn="API Testing Thread Group 1-91" dt="text" by="1697" sby="195" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/all/products</java.net.URL>
+</httpSample>
+<httpSample t="11" it="0" lt="11" ct="0" ts="1680242032470" s="true" lb="API One Category Request" rc="200" rm="" tn="API Testing Thread Group 1-91" dt="text" by="865" sby="157" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/category/1/products</java.net.URL>
+</httpSample>
+<httpSample t="6" it="0" lt="6" ct="0" ts="1680242032482" s="true" lb="API Most Viewed Request" rc="200" rm="" tn="API Testing Thread Group 1-91" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mv/products</java.net.URL>
+</httpSample>
+<httpSample t="7" it="0" lt="7" ct="0" ts="1680242032488" s="true" lb="API Most Purchased Request" rc="200" rm="" tn="API Testing Thread Group 1-91" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mp/products</java.net.URL>
+</httpSample>
+<httpSample t="22" it="0" lt="22" ct="4" ts="1680242032554" s="true" lb="API All products Request" rc="200" rm="" tn="API Testing Thread Group 1-92" dt="text" by="1697" sby="195" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/all/products</java.net.URL>
+</httpSample>
+<httpSample t="8" it="0" lt="8" ct="0" ts="1680242032577" s="true" lb="API One Category Request" rc="200" rm="" tn="API Testing Thread Group 1-92" dt="text" by="865" sby="157" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/category/1/products</java.net.URL>
+</httpSample>
+<httpSample t="5" it="0" lt="4" ct="0" ts="1680242032585" s="true" lb="API Most Viewed Request" rc="200" rm="" tn="API Testing Thread Group 1-92" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mv/products</java.net.URL>
+</httpSample>
+<httpSample t="9" it="0" lt="9" ct="0" ts="1680242032590" s="true" lb="API Most Purchased Request" rc="200" rm="" tn="API Testing Thread Group 1-92" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mp/products</java.net.URL>
+</httpSample>
+<httpSample t="28" it="0" lt="28" ct="9" ts="1680242032669" s="true" lb="API All products Request" rc="200" rm="" tn="API Testing Thread Group 1-93" dt="text" by="1697" sby="195" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/all/products</java.net.URL>
+</httpSample>
+<httpSample t="8" it="0" lt="8" ct="0" ts="1680242032698" s="true" lb="API One Category Request" rc="200" rm="" tn="API Testing Thread Group 1-93" dt="text" by="865" sby="157" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/category/1/products</java.net.URL>
+</httpSample>
+<httpSample t="12" it="0" lt="12" ct="0" ts="1680242032707" s="true" lb="API Most Viewed Request" rc="200" rm="" tn="API Testing Thread Group 1-93" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mv/products</java.net.URL>
+</httpSample>
+<httpSample t="6" it="0" lt="6" ct="0" ts="1680242032719" s="true" lb="API Most Purchased Request" rc="200" rm="" tn="API Testing Thread Group 1-93" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mp/products</java.net.URL>
+</httpSample>
+<httpSample t="4" it="0" lt="4" ct="0" ts="1680242032748" s="true" lb="API All products Request" rc="200" rm="" tn="API Testing Thread Group 1-94" dt="text" by="1697" sby="195" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/all/products</java.net.URL>
+</httpSample>
+<httpSample t="4" it="0" lt="4" ct="0" ts="1680242032752" s="true" lb="API One Category Request" rc="200" rm="" tn="API Testing Thread Group 1-94" dt="text" by="865" sby="157" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/category/1/products</java.net.URL>
+</httpSample>
+<httpSample t="90" it="0" lt="89" ct="0" ts="1680242032756" s="true" lb="API Most Viewed Request" rc="200" rm="" tn="API Testing Thread Group 1-94" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mv/products</java.net.URL>
+</httpSample>
+<httpSample t="13" it="0" lt="13" ct="0" ts="1680242032848" s="true" lb="API Most Purchased Request" rc="200" rm="" tn="API Testing Thread Group 1-94" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mp/products</java.net.URL>
+</httpSample>
+<httpSample t="7" it="0" lt="7" ct="1" ts="1680242032865" s="true" lb="API All products Request" rc="200" rm="" tn="API Testing Thread Group 1-95" dt="text" by="1697" sby="195" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/all/products</java.net.URL>
+</httpSample>
+<httpSample t="9" it="0" lt="9" ct="0" ts="1680242032872" s="true" lb="API One Category Request" rc="200" rm="" tn="API Testing Thread Group 1-95" dt="text" by="865" sby="157" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/category/1/products</java.net.URL>
+</httpSample>
+<httpSample t="5" it="0" lt="5" ct="0" ts="1680242032882" s="true" lb="API Most Viewed Request" rc="200" rm="" tn="API Testing Thread Group 1-95" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mv/products</java.net.URL>
+</httpSample>
+<httpSample t="5" it="0" lt="5" ct="0" ts="1680242032887" s="true" lb="API Most Purchased Request" rc="200" rm="" tn="API Testing Thread Group 1-95" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mp/products</java.net.URL>
+</httpSample>
+<httpSample t="5" it="0" lt="4" ct="1" ts="1680242032945" s="true" lb="API All products Request" rc="200" rm="" tn="API Testing Thread Group 1-96" dt="text" by="1697" sby="195" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/all/products</java.net.URL>
+</httpSample>
+<httpSample t="4" it="0" lt="4" ct="0" ts="1680242032950" s="true" lb="API One Category Request" rc="200" rm="" tn="API Testing Thread Group 1-96" dt="text" by="865" sby="157" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/category/1/products</java.net.URL>
+</httpSample>
+<httpSample t="5" it="0" lt="5" ct="0" ts="1680242032955" s="true" lb="API Most Viewed Request" rc="200" rm="" tn="API Testing Thread Group 1-96" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mv/products</java.net.URL>
+</httpSample>
+<httpSample t="6" it="0" lt="6" ct="0" ts="1680242032960" s="true" lb="API Most Purchased Request" rc="200" rm="" tn="API Testing Thread Group 1-96" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mp/products</java.net.URL>
+</httpSample>
+<httpSample t="11" it="0" lt="11" ct="3" ts="1680242033041" s="true" lb="API All products Request" rc="200" rm="" tn="API Testing Thread Group 1-97" dt="text" by="1697" sby="195" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/all/products</java.net.URL>
+</httpSample>
+<httpSample t="8" it="0" lt="8" ct="0" ts="1680242033052" s="true" lb="API One Category Request" rc="200" rm="" tn="API Testing Thread Group 1-97" dt="text" by="865" sby="157" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/category/1/products</java.net.URL>
+</httpSample>
+<httpSample t="6" it="0" lt="6" ct="0" ts="1680242033060" s="true" lb="API Most Viewed Request" rc="200" rm="" tn="API Testing Thread Group 1-97" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mv/products</java.net.URL>
+</httpSample>
+<httpSample t="4" it="0" lt="4" ct="0" ts="1680242033066" s="true" lb="API Most Purchased Request" rc="200" rm="" tn="API Testing Thread Group 1-97" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mp/products</java.net.URL>
+</httpSample>
+<httpSample t="19" it="0" lt="19" ct="2" ts="1680242033149" s="true" lb="API All products Request" rc="200" rm="" tn="API Testing Thread Group 1-98" dt="text" by="1697" sby="195" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/all/products</java.net.URL>
+</httpSample>
+<httpSample t="14" it="0" lt="13" ct="0" ts="1680242033169" s="true" lb="API One Category Request" rc="200" rm="" tn="API Testing Thread Group 1-98" dt="text" by="865" sby="157" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/category/1/products</java.net.URL>
+</httpSample>
+<httpSample t="5" it="0" lt="5" ct="0" ts="1680242033183" s="true" lb="API Most Viewed Request" rc="200" rm="" tn="API Testing Thread Group 1-98" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mv/products</java.net.URL>
+</httpSample>
+<httpSample t="6" it="0" lt="6" ct="0" ts="1680242033188" s="true" lb="API Most Purchased Request" rc="200" rm="" tn="API Testing Thread Group 1-98" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mp/products</java.net.URL>
+</httpSample>
+<httpSample t="14" it="0" lt="13" ct="3" ts="1680242033226" s="true" lb="API All products Request" rc="200" rm="" tn="API Testing Thread Group 1-99" dt="text" by="1697" sby="195" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/all/products</java.net.URL>
+</httpSample>
+<httpSample t="12" it="0" lt="12" ct="0" ts="1680242033241" s="true" lb="API One Category Request" rc="200" rm="" tn="API Testing Thread Group 1-99" dt="text" by="865" sby="157" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/category/1/products</java.net.URL>
+</httpSample>
+<httpSample t="7" it="0" lt="7" ct="0" ts="1680242033253" s="true" lb="API Most Viewed Request" rc="200" rm="" tn="API Testing Thread Group 1-99" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mv/products</java.net.URL>
+</httpSample>
+<httpSample t="5" it="0" lt="5" ct="0" ts="1680242033261" s="true" lb="API Most Purchased Request" rc="200" rm="" tn="API Testing Thread Group 1-99" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mp/products</java.net.URL>
+</httpSample>
+<httpSample t="20" it="0" lt="20" ct="3" ts="1680242033329" s="true" lb="API All products Request" rc="200" rm="" tn="API Testing Thread Group 1-100" dt="text" by="1697" sby="195" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/all/products</java.net.URL>
+</httpSample>
+<httpSample t="7" it="0" lt="7" ct="0" ts="1680242033349" s="true" lb="API One Category Request" rc="200" rm="" tn="API Testing Thread Group 1-100" dt="text" by="865" sby="157" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/category/1/products</java.net.URL>
+</httpSample>
+<httpSample t="22" it="0" lt="22" ct="0" ts="1680242033357" s="true" lb="API Most Viewed Request" rc="200" rm="" tn="API Testing Thread Group 1-100" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mv/products</java.net.URL>
+</httpSample>
+<httpSample t="4" it="0" lt="4" ct="0" ts="1680242033380" s="true" lb="API Most Purchased Request" rc="200" rm="" tn="API Testing Thread Group 1-100" dt="text" by="1472" sby="149" ng="1" na="1">
+  <java.net.URL>http://localhost:8090/medicare/json/data/mp/products</java.net.URL>
+</httpSample>
+
+</testResults>
